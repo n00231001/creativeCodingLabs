@@ -12,8 +12,8 @@ class pyramidChart {
         this.chartPosX = obj.chartPosX || 50;
         this.chartPosY = obj.chartPosY || 350;
 
-        this.barsPosX = obj.barsPosX || 50;
-        this.barsPosY = obj.barsPosY || 100;
+        this.barsPosX = obj.barsPosX || 450;
+        this.barsPosY = obj.barsPosY || 800;
 
         this.axisColour = color(255);
         this.barColour = color(255);
@@ -63,28 +63,6 @@ class pyramidChart {
          
           pop()
         }
-            // push();
-            // translate(this.barsPosX, this.barsPosY);
-        
-            // for (let i = 0; i < this.data.length; i++) { 
-            //     let yPos = i * (this.barWidth + this.gap); // Move bars along Y-axis
-            //     push();
-            //     translate(0, yPos);
-        
-            //     for (let j = 0; j < this.yValues.length; j++) { 
-            //         let value = this.data[i][this.yValues[j]];
-            //         if (value !== undefined) {  
-            //             fill(random(100, 255));
-            //             noStroke();
-                        
-            //             // Draw horizontal bars
-            //             rect(0, 0, value * this.scaler, this.barWidth);
-            //             translate(value * this.scaler, 0); // Shift for stacked bars
-            //         }
-            //     }
-            //     pop();
-            // }
-            // pop();
             renderLabels(){
               push()
               push();

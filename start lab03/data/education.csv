@@ -1,0 +1,5001 @@
+Age,Gender,Field_of_Study,Starting_Salary
+24	Male	Arts	27200
+21	Other	Law	25000
+28	Female	Medicine	42400
+25	Male	Computer Science	57400
+22	Male	Engineering	47600
+24	Male	Law	68400
+27	Male	Computer Science	55500
+20	Male	Computer Science	38000
+24	Male	Business	68900
+28	Male	Computer Science	58900
+28	Female	Mathematics	26300
+25	Female	Law	35100
+22	Female	Engineering	42600
+21	Male	Arts	76500
+25	Male	Business	61100
+25	Female	Computer Science	34500
+20	Female	Law	97500
+23	Male	Mathematics	61800
+22	Female	Mathematics	32200
+19	Female	Mathematics	45500
+25	Female	Medicine	42200
+29	Male	Business	37400
+23	Female	Engineering	69500
+19	Female	Medicine	48100
+29	Female	Engineering	63900
+22	Female	Medicine	48100
+18	Female	Arts	44600
+29	Female	Engineering	41000
+27	Male	Medicine	50300
+23	Female	Mathematics	38300
+29	Female	Engineering	49500
+26	Female	Business	41500
+18	Male	Engineering	29800
+28	Male	Law	44600
+28	Female	Engineering	25000
+27	Female	Medicine	70300
+29	Female	Engineering	57500
+29	Female	Arts	43000
+20	Female	Computer Science	25000
+29	Female	Business	50200
+24	Female	Law	53400
+21	Female	Mathematics	56300
+26	Female	Medicine	38400
+20	Male	Mathematics	53200
+22	Male	Mathematics	78700
+20	Female	Engineering	42200
+24	Male	Engineering	65500
+22	Male	Engineering	49800
+26	Male	Business	47900
+24	Male	Law	52000
+19	Male	Computer Science	42000
+21	Male	Arts	52100
+26	Female	Law	64500
+29	Female	Arts	63500
+19	Male	Mathematics	67200
+27	Male	Law	40600
+26	Female	Medicine	50900
+27	Male	Computer Science	82700
+22	Female	Computer Science	35400
+19	Female	Business	48300
+21	Female	Law	31800
+29	Male	Engineering	51600
+29	Female	Computer Science	65600
+24	Male	Law	75700
+29	Female	Engineering	35000
+25	Female	Business	37600
+20	Male	Mathematics	73700
+18	Male	Mathematics	25000
+21	Male	Law	40400
+19	Female	Law	64600
+25	Male	Medicine	25000
+21	Female	Law	34300
+19	Male	Medicine	68900
+23	Female	Engineering	25000
+23	Female	Mathematics	25000
+27	Female	Engineering	62600
+21	Female	Mathematics	74400
+23	Male	Mathematics	71500
+19	Male	Computer Science	25000
+27	Female	Business	71900
+29	Male	Medicine	51200
+19	Male	Mathematics	37900
+27	Male	Computer Science	36000
+21	Male	Arts	60500
+25	Male	Computer Science	56600
+24	Female	Engineering	71100
+29	Male	Arts	40600
+26	Female	Computer Science	42700
+25	Male	Law	62100
+22	Female	Business	38100
+19	Male	Medicine	62300
+22	Female	Law	33300
+25	Female	Arts	80600
+27	Male	Mathematics	79900
+26	Female	Business	39000
+29	Other	Mathematics	50900
+29	Female	Computer Science	51800
+29	Female	Law	48000
+26	Male	Engineering	35000
+18	Female	Engineering	51600
+26	Male	Business	27800
+24	Male	Engineering	73000
+26	Other	Medicine	74000
+25	Male	Mathematics	70200
+18	Female	Business	71300
+29	Female	Business	61100
+25	Female	Engineering	36400
+25	Other	Business	30300
+28	Male	Computer Science	33900
+20	Male	Arts	56800
+18	Male	Law	29900
+25	Male	Arts	52600
+20	Male	Mathematics	58300
+20	Male	Law	47200
+18	Female	Engineering	50600
+28	Female	Medicine	89100
+22	Male	Medicine	49500
+27	Female	Engineering	56100
+24	Male	Mathematics	67600
+27	Male	Engineering	63600
+26	Female	Business	62500
+29	Female	Medicine	54100
+24	Female	Arts	54200
+26	Male	Engineering	25000
+25	Female	Mathematics	76000
+29	Female	Mathematics	41100
+19	Female	Arts	63200
+18	Female	Law	46500
+24	Female	Arts	96700
+24	Female	Mathematics	37600
+25	Female	Medicine	85500
+22	Other	Law	48100
+20	Female	Arts	61000
+29	Male	Business	50300
+25	Female	Business	73800
+23	Male	Medicine	52000
+28	Male	Business	54800
+20	Female	Engineering	51500
+18	Female	Law	58500
+20	Female	Medicine	36100
+22	Male	Law	25000
+20	Female	Mathematics	56900
+18	Male	Arts	82000
+22	Other	Engineering	43800
+27	Other	Medicine	61500
+24	Female	Arts	27800
+24	Female	Arts	41700
+28	Female	Arts	50700
+26	Female	Arts	49600
+27	Male	Arts	66800
+27	Male	Medicine	25000
+29	Female	Business	47500
+20	Female	Arts	40600
+24	Male	Mathematics	36300
+18	Female	Mathematics	39000
+21	Male	Engineering	54100
+21	Female	Medicine	52200
+22	Female	Computer Science	47100
+24	Female	Business	29700
+24	Female	Engineering	46000
+28	Male	Mathematics	66900
+21	Male	Arts	25400
+24	Female	Medicine	39300
+28	Female	Medicine	32800
+20	Male	Arts	33400
+23	Female	Mathematics	46400
+29	Male	Engineering	40400
+19	Female	Medicine	37100
+27	Female	Law	50300
+26	Male	Mathematics	26500
+22	Male	Mathematics	79900
+23	Female	Business	41500
+29	Female	Engineering	44400
+29	Female	Mathematics	44900
+29	Female	Arts	35500
+29	Female	Mathematics	68800
+21	Other	Engineering	53900
+28	Female	Law	25000
+27	Female	Mathematics	31400
+24	Male	Engineering	40300
+29	Male	Mathematics	59500
+26	Female	Computer Science	67900
+24	Male	Arts	48000
+18	Female	Business	73800
+18	Female	Arts	61600
+26	Female	Computer Science	82200
+28	Male	Arts	41600
+26	Male	Arts	43900
+21	Male	Business	53200
+26	Male	Computer Science	38900
+20	Male	Arts	61700
+24	Female	Law	31500
+23	Female	Mathematics	27800
+25	Female	Arts	49200
+28	Female	Medicine	72200
+26	Male	Arts	57400
+22	Female	Business	62200
+18	Female	Medicine	75000
+20	Male	Law	56500
+27	Female	Mathematics	44800
+29	Male	Law	71800
+25	Female	Law	64500
+28	Other	Computer Science	39000
+23	Male	Law	37300
+25	Female	Engineering	49200
+26	Female	Business	63500
+21	Other	Computer Science	35400
+18	Male	Medicine	52000
+18	Female	Engineering	63600
+27	Male	Computer Science	46300
+21	Male	Business	54200
+29	Male	Medicine	57300
+24	Other	Business	61300
+19	Female	Business	51200
+20	Female	Medicine	48100
+18	Female	Law	65200
+22	Male	Arts	25000
+18	Male	Business	62900
+25	Male	Law	58800
+18	Male	Mathematics	72900
+28	Male	Medicine	58600
+18	Male	Business	34400
+19	Male	Arts	51500
+19	Male	Mathematics	35300
+29	Male	Medicine	67200
+23	Male	Computer Science	25000
+24	Other	Computer Science	26000
+22	Female	Law	32000
+18	Other	Computer Science	25600
+18	Male	Engineering	45100
+20	Male	Business	43700
+19	Female	Business	62400
+22	Male	Medicine	25000
+29	Male	Engineering	42000
+27	Male	Business	53900
+23	Male	Medicine	36000
+24	Male	Arts	25200
+21	Male	Business	60600
+24	Female	Law	58500
+28	Male	Business	25000
+25	Male	Arts	43600
+28	Female	Arts	40800
+18	Male	Business	77200
+23	Male	Arts	25000
+25	Female	Medicine	43300
+22	Male	Business	61400
+21	Male	Business	48200
+19	Female	Computer Science	66100
+23	Male	Law	25000
+23	Female	Business	30700
+28	Female	Mathematics	45300
+18	Male	Computer Science	57300
+26	Female	Arts	50100
+29	Female	Law	59200
+28	Male	Law	44900
+23	Female	Arts	30400
+20	Male	Medicine	58300
+21	Female	Computer Science	27000
+29	Male	Business	35500
+28	Male	Computer Science	29500
+21	Male	Arts	52700
+20	Female	Arts	48800
+27	Male	Mathematics	32900
+20	Male	Medicine	38100
+20	Male	Law	44700
+21	Female	Law	59500
+24	Female	Arts	50400
+21	Female	Computer Science	54300
+26	Female	Law	56500
+18	Female	Mathematics	49700
+25	Male	Mathematics	53200
+24	Female	Business	47900
+19	Female	Business	72100
+25	Other	Computer Science	57900
+18	Female	Medicine	77500
+28	Male	Business	69000
+29	Male	Computer Science	47000
+26	Female	Computer Science	47000
+26	Female	Arts	25100
+19	Female	Law	33400
+24	Female	Arts	65100
+27	Female	Law	64400
+20	Male	Medicine	25000
+24	Female	Medicine	69700
+29	Male	Medicine	67800
+27	Male	Computer Science	66800
+26	Male	Computer Science	57700
+21	Female	Arts	57600
+29	Male	Business	47200
+18	Male	Mathematics	40500
+19	Female	Law	67000
+18	Male	Law	46100
+29	Female	Medicine	25000
+22	Female	Law	59300
+22	Female	Engineering	34200
+28	Female	Medicine	52300
+24	Male	Mathematics	74900
+26	Female	Law	81500
+26	Male	Arts	60400
+20	Female	Law	69700
+20	Male	Computer Science	61200
+20	Female	Arts	62100
+21	Male	Arts	63800
+25	Male	Arts	34000
+23	Male	Engineering	30800
+25	Male	Engineering	65200
+18	Female	Law	54600
+25	Male	Medicine	52400
+21	Female	Law	42900
+28	Other	Law	44600
+18	Female	Law	68900
+25	Male	Mathematics	37300
+21	Male	Computer Science	50200
+23	Female	Arts	38200
+25	Male	Business	26700
+21	Male	Mathematics	51600
+20	Female	Medicine	61100
+26	Female	Medicine	34100
+20	Female	Arts	39300
+26	Male	Medicine	32200
+19	Female	Arts	52000
+19	Male	Medicine	42700
+19	Male	Law	25000
+23	Female	Computer Science	44700
+20	Male	Mathematics	65600
+26	Male	Mathematics	67400
+21	Male	Medicine	68100
+18	Female	Mathematics	35100
+21	Female	Medicine	32200
+18	Female	Business	40300
+22	Female	Mathematics	64600
+21	Male	Computer Science	64100
+25	Male	Mathematics	50000
+25	Male	Law	66800
+24	Male	Computer Science	59100
+20	Female	Mathematics	42800
+18	Female	Computer Science	44800
+18	Male	Mathematics	31000
+29	Male	Medicine	48100
+28	Male	Engineering	40900
+20	Male	Medicine	35000
+23	Female	Arts	39000
+24	Male	Mathematics	72400
+23	Male	Business	43100
+23	Female	Computer Science	73700
+23	Male	Arts	50900
+20	Female	Law	46600
+23	Male	Arts	57800
+25	Female	Engineering	25000
+28	Other	Mathematics	81200
+28	Female	Computer Science	64300
+19	Male	Medicine	53100
+22	Female	Computer Science	62200
+18	Male	Business	50800
+29	Male	Computer Science	40900
+18	Male	Arts	49600
+22	Male	Arts	43700
+29	Female	Medicine	36500
+20	Female	Medicine	44100
+21	Female	Medicine	53200
+20	Female	Law	55300
+18	Female	Mathematics	71200
+18	Male	Business	45400
+29	Male	Law	39400
+29	Female	Law	31100
+22	Male	Law	56600
+23	Female	Computer Science	71900
+20	Male	Engineering	44100
+29	Male	Mathematics	41600
+26	Male	Computer Science	63000
+22	Male	Medicine	34000
+25	Male	Business	74300
+18	Female	Law	48900
+22	Male	Computer Science	55600
+20	Female	Mathematics	50600
+29	Male	Arts	25000
+18	Male	Mathematics	49000
+21	Male	Law	44300
+22	Female	Mathematics	55800
+24	Male	Computer Science	67100
+18	Female	Arts	57400
+20	Male	Computer Science	40000
+19	Female	Computer Science	74700
+26	Male	Law	50700
+27	Female	Computer Science	69200
+23	Female	Medicine	63200
+27	Female	Mathematics	35100
+20	Male	Arts	65900
+25	Male	Business	63000
+25	Male	Engineering	51200
+19	Female	Mathematics	43300
+23	Female	Law	62200
+24	Female	Arts	64900
+19	Male	Medicine	43900
+28	Male	Arts	59100
+27	Male	Business	45000
+19	Other	Law	41800
+27	Female	Arts	56500
+18	Female	Mathematics	61800
+25	Male	Medicine	57800
+18	Female	Law	47900
+26	Female	Medicine	32800
+28	Male	Law	45400
+23	Female	Engineering	55600
+24	Female	Business	82300
+27	Female	Engineering	35400
+24	Female	Mathematics	48300
+27	Male	Mathematics	47600
+20	Male	Mathematics	25000
+19	Other	Computer Science	41100
+26	Male	Mathematics	32100
+25	Female	Medicine	44000
+29	Female	Engineering	72600
+27	Female	Medicine	59800
+24	Other	Law	52600
+26	Male	Medicine	79200
+21	Male	Computer Science	71100
+21	Male	Medicine	38000
+18	Male	Law	25000
+25	Male	Law	25000
+29	Male	Engineering	36800
+20	Female	Mathematics	41500
+24	Female	Business	73200
+29	Male	Arts	68000
+19	Male	Engineering	63800
+19	Female	Computer Science	42400
+24	Male	Arts	47200
+23	Male	Medicine	43900
+20	Male	Engineering	83100
+26	Female	Arts	40600
+27	Male	Mathematics	38100
+23	Other	Mathematics	58500
+27	Male	Engineering	35600
+27	Female	Mathematics	58400
+23	Male	Medicine	54300
+18	Male	Law	38900
+21	Female	Engineering	44800
+27	Female	Computer Science	37300
+23	Female	Arts	65200
+23	Female	Arts	47800
+28	Female	Arts	46800
+29	Female	Engineering	62100
+22	Female	Medicine	60100
+18	Male	Engineering	53500
+25	Male	Engineering	65700
+22	Male	Mathematics	47700
+29	Female	Law	36600
+29	Male	Arts	52200
+29	Male	Medicine	49500
+22	Female	Business	71500
+24	Female	Medicine	46000
+21	Female	Mathematics	73900
+23	Male	Engineering	31800
+21	Female	Computer Science	46500
+20	Male	Medicine	45300
+24	Male	Arts	45200
+25	Male	Computer Science	67100
+21	Male	Business	43000
+19	Male	Business	64900
+29	Female	Computer Science	48700
+27	Male	Mathematics	48500
+20	Female	Business	29900
+18	Female	Computer Science	68800
+25	Male	Engineering	73000
+20	Female	Computer Science	31300
+29	Male	Engineering	74200
+27	Female	Mathematics	28300
+24	Male	Arts	47500
+27	Male	Arts	48500
+22	Male	Business	45500
+27	Female	Law	66300
+22	Female	Law	61200
+24	Male	Computer Science	25000
+26	Female	Mathematics	72100
+29	Female	Engineering	75100
+22	Female	Arts	60200
+18	Female	Mathematics	44800
+27	Female	Arts	53300
+27	Female	Arts	45700
+18	Female	Business	64700
+19	Male	Arts	25000
+23	Male	Law	56000
+26	Male	Medicine	67300
+25	Female	Business	46300
+22	Female	Computer Science	58300
+18	Male	Medicine	25000
+24	Female	Business	35700
+22	Male	Mathematics	55900
+23	Male	Business	56800
+24	Other	Engineering	41300
+20	Male	Medicine	54600
+29	Male	Medicine	49200
+27	Female	Law	25000
+20	Female	Medicine	46500
+22	Male	Arts	60900
+23	Female	Law	69900
+26	Female	Mathematics	46400
+29	Male	Arts	55800
+22	Male	Law	52600
+18	Female	Computer Science	58000
+21	Male	Mathematics	40300
+22	Female	Law	48900
+29	Female	Computer Science	58200
+27	Other	Law	56000
+27	Male	Computer Science	59100
+22	Other	Arts	62000
+24	Male	Mathematics	52400
+21	Male	Mathematics	54500
+18	Male	Law	41500
+22	Male	Engineering	62900
+24	Female	Law	33800
+27	Male	Computer Science	59300
+27	Male	Mathematics	52000
+23	Female	Business	39300
+22	Male	Arts	39900
+21	Female	Engineering	53200
+19	Male	Business	46300
+21	Female	Business	43600
+27	Female	Arts	56300
+27	Male	Law	25000
+20	Male	Medicine	51400
+27	Male	Engineering	44400
+18	Female	Law	31600
+25	Male	Arts	44900
+22	Male	Medicine	30300
+21	Male	Arts	67700
+25	Male	Arts	60800
+24	Female	Business	62400
+19	Female	Mathematics	57700
+18	Male	Law	25000
+29	Male	Arts	32300
+28	Female	Law	63400
+21	Female	Medicine	79600
+25	Male	Business	55600
+29	Male	Medicine	70800
+19	Male	Medicine	37800
+20	Female	Business	40600
+29	Male	Law	60000
+18	Female	Medicine	38000
+18	Female	Computer Science	25800
+20	Female	Law	61200
+28	Male	Mathematics	39200
+22	Male	Mathematics	25000
+29	Male	Arts	67400
+20	Male	Business	57600
+18	Female	Mathematics	60500
+18	Other	Business	61400
+25	Female	Law	64600
+27	Female	Computer Science	57500
+28	Male	Computer Science	27700
+29	Male	Computer Science	33700
+29	Male	Computer Science	65100
+19	Female	Engineering	58600
+20	Female	Business	48000
+19	Female	Medicine	25000
+20	Male	Business	37400
+24	Male	Mathematics	45400
+18	Female	Business	38700
+27	Male	Business	34300
+25	Female	Computer Science	55000
+27	Female	Computer Science	72000
+27	Female	Engineering	59600
+27	Male	Law	42900
+19	Male	Business	49000
+20	Male	Arts	59200
+26	Male	Law	41000
+24	Male	Mathematics	53200
+21	Female	Engineering	44700
+27	Female	Mathematics	44300
+22	Male	Computer Science	26200
+19	Male	Mathematics	50700
+28	Male	Business	56100
+25	Male	Computer Science	62700
+21	Female	Law	25000
+26	Male	Medicine	64300
+22	Male	Computer Science	60900
+26	Male	Computer Science	72100
+21	Female	Engineering	44500
+27	Female	Medicine	51000
+22	Male	Law	34600
+26	Female	Arts	49100
+25	Female	Arts	45300
+20	Female	Arts	52300
+18	Male	Business	49400
+20	Female	Arts	62200
+21	Female	Business	46900
+19	Female	Law	69100
+18	Female	Law	25000
+24	Female	Computer Science	69400
+25	Male	Arts	29300
+24	Female	Engineering	62300
+22	Female	Law	60100
+29	Female	Medicine	33900
+18	Male	Medicine	68400
+24	Female	Law	32200
+24	Female	Computer Science	30200
+26	Male	Mathematics	43300
+20	Female	Medicine	44000
+26	Female	Medicine	40900
+18	Female	Mathematics	51100
+18	Male	Computer Science	55600
+21	Male	Mathematics	48800
+26	Female	Computer Science	32600
+23	Male	Computer Science	37200
+28	Female	Engineering	81600
+20	Female	Computer Science	34200
+18	Female	Computer Science	34800
+21	Male	Computer Science	26700
+29	Female	Law	64600
+26	Male	Arts	64400
+20	Male	Law	56000
+29	Male	Arts	69300
+26	Male	Engineering	39200
+24	Other	Engineering	32700
+29	Other	Medicine	54100
+21	Male	Mathematics	57100
+20	Female	Mathematics	52900
+27	Male	Law	45400
+22	Female	Arts	65400
+22	Female	Engineering	49300
+20	Female	Engineering	53800
+29	Male	Law	49600
+26	Female	Medicine	42600
+21	Male	Computer Science	34100
+28	Other	Business	56300
+22	Male	Medicine	25000
+21	Female	Mathematics	40500
+22	Female	Mathematics	42500
+24	Female	Business	31800
+26	Male	Medicine	45600
+24	Female	Medicine	56700
+22	Male	Computer Science	51900
+27	Female	Engineering	41400
+27	Male	Arts	59300
+24	Male	Medicine	54000
+27	Female	Computer Science	32800
+22	Male	Mathematics	38400
+20	Male	Business	28800
+24	Male	Law	44800
+28	Male	Mathematics	40000
+28	Female	Law	46600
+19	Female	Engineering	79000
+29	Male	Law	25500
+26	Male	Medicine	25000
+27	Male	Business	72400
+27	Male	Medicine	57900
+29	Female	Law	64600
+18	Female	Arts	44800
+23	Male	Mathematics	60300
+24	Male	Law	48100
+25	Male	Arts	63000
+27	Female	Law	65300
+26	Other	Engineering	63900
+19	Male	Business	40200
+28	Male	Arts	51400
+27	Female	Computer Science	35600
+19	Female	Engineering	58300
+22	Male	Medicine	55100
+22	Male	Law	26100
+23	Male	Business	56900
+20	Female	Business	56500
+25	Male	Law	58500
+18	Male	Computer Science	50700
+23	Female	Mathematics	58500
+21	Male	Mathematics	54700
+18	Female	Arts	36600
+24	Male	Law	59500
+26	Male	Business	35700
+21	Female	Computer Science	34000
+21	Male	Mathematics	53200
+23	Other	Computer Science	25000
+29	Female	Mathematics	40000
+20	Male	Medicine	45300
+29	Female	Computer Science	69900
+23	Male	Engineering	46800
+24	Female	Business	78900
+28	Male	Engineering	27700
+27	Female	Mathematics	57100
+27	Male	Computer Science	59700
+20	Male	Computer Science	36200
+24	Female	Engineering	48600
+20	Female	Medicine	48400
+19	Male	Computer Science	66300
+29	Male	Engineering	28400
+27	Female	Engineering	78200
+21	Female	Business	25000
+29	Male	Medicine	56400
+25	Male	Arts	36900
+26	Male	Engineering	57200
+24	Female	Business	40100
+18	Male	Arts	70200
+20	Male	Business	51500
+29	Female	Business	43700
+26	Male	Law	33200
+29	Female	Medicine	55800
+18	Male	Computer Science	56800
+26	Male	Medicine	44600
+25	Male	Arts	50400
+18	Female	Law	54200
+23	Male	Medicine	59600
+22	Female	Computer Science	35000
+23	Female	Medicine	43100
+27	Female	Medicine	59200
+29	Male	Medicine	48400
+22	Male	Engineering	25000
+23	Male	Engineering	73900
+22	Male	Medicine	62700
+28	Male	Computer Science	25000
+29	Female	Mathematics	40100
+22	Male	Computer Science	73600
+21	Male	Computer Science	56800
+20	Male	Computer Science	28400
+20	Female	Law	25000
+21	Male	Law	25000
+26	Female	Business	42600
+19	Male	Medicine	60000
+26	Female	Mathematics	27000
+18	Female	Mathematics	58500
+18	Male	Medicine	36800
+22	Male	Business	25000
+23	Male	Computer Science	44800
+23	Male	Arts	79600
+20	Female	Arts	70200
+24	Female	Business	42500
+26	Female	Mathematics	53100
+28	Female	Arts	41300
+29	Male	Engineering	25000
+27	Male	Medicine	40900
+25	Female	Arts	59600
+23	Male	Law	32300
+29	Female	Law	66100
+25	Male	Mathematics	66700
+29	Male	Mathematics	43200
+22	Other	Engineering	51700
+25	Male	Medicine	69500
+27	Other	Engineering	55400
+29	Other	Medicine	71900
+21	Female	Medicine	25000
+27	Female	Mathematics	41300
+25	Female	Arts	45100
+27	Female	Law	68700
+29	Male	Business	50000
+19	Male	Arts	38900
+29	Female	Mathematics	48300
+29	Male	Computer Science	57800
+22	Male	Engineering	45300
+26	Male	Mathematics	62600
+21	Female	Computer Science	51700
+28	Female	Medicine	45500
+23	Male	Mathematics	67700
+18	Female	Arts	71600
+26	Female	Computer Science	67500
+18	Female	Computer Science	37900
+22	Female	Law	67900
+21	Female	Mathematics	65000
+29	Male	Computer Science	32800
+20	Female	Law	45000
+23	Male	Law	68700
+19	Female	Medicine	64300
+20	Other	Law	42100
+22	Male	Medicine	33700
+26	Male	Law	69500
+19	Female	Law	58400
+27	Male	Mathematics	50500
+25	Female	Mathematics	38000
+19	Male	Medicine	60800
+28	Male	Computer Science	34500
+22	Other	Engineering	36400
+24	Female	Arts	56000
+25	Female	Arts	64800
+18	Male	Medicine	52100
+23	Female	Computer Science	44600
+18	Female	Mathematics	63300
+19	Female	Mathematics	32700
+18	Female	Engineering	35700
+28	Female	Business	66300
+22	Male	Mathematics	32300
+27	Male	Medicine	25000
+26	Female	Business	35200
+23	Male	Arts	66300
+28	Female	Arts	63400
+28	Male	Mathematics	28000
+18	Female	Engineering	37700
+18	Female	Engineering	27700
+19	Male	Business	59500
+26	Male	Mathematics	31700
+20	Male	Arts	56800
+18	Female	Engineering	46900
+22	Female	Engineering	51400
+24	Male	Arts	25000
+23	Female	Mathematics	63400
+29	Male	Arts	73200
+18	Male	Computer Science	72200
+22	Female	Law	51000
+22	Male	Engineering	25000
+23	Male	Business	44600
+20	Male	Mathematics	54000
+22	Male	Medicine	52000
+24	Male	Medicine	26800
+22	Male	Arts	60700
+22	Female	Law	61600
+22	Male	Mathematics	61600
+27	Female	Mathematics	39200
+27	Male	Business	28300
+20	Male	Computer Science	42700
+18	Female	Engineering	67700
+22	Other	Computer Science	35500
+26	Male	Mathematics	37000
+18	Female	Business	34100
+20	Female	Computer Science	43700
+21	Female	Arts	56200
+18	Female	Medicine	60200
+18	Male	Arts	31100
+25	Male	Engineering	65200
+19	Female	Arts	67300
+29	Male	Business	45700
+25	Female	Mathematics	29200
+24	Male	Business	68900
+27	Male	Engineering	55600
+27	Female	Engineering	78600
+19	Male	Medicine	28400
+23	Female	Computer Science	54400
+23	Female	Medicine	72000
+20	Female	Arts	57000
+28	Female	Computer Science	25000
+19	Female	Engineering	25000
+29	Female	Business	77000
+18	Female	Arts	40800
+23	Male	Medicine	57200
+29	Male	Mathematics	30500
+22	Male	Law	41500
+28	Male	Law	64300
+26	Female	Engineering	54200
+18	Female	Mathematics	43200
+24	Female	Computer Science	62000
+22	Male	Law	49200
+22	Female	Computer Science	65000
+19	Male	Business	43600
+28	Female	Engineering	54400
+20	Female	Engineering	80000
+24	Male	Arts	52400
+23	Male	Arts	60400
+29	Male	Mathematics	25000
+19	Female	Computer Science	52200
+23	Female	Law	53100
+19	Female	Law	31800
+19	Male	Medicine	45900
+19	Male	Computer Science	45600
+28	Female	Law	33300
+20	Female	Arts	42400
+19	Male	Arts	81700
+21	Male	Arts	50300
+26	Female	Computer Science	54700
+23	Male	Engineering	78300
+18	Male	Mathematics	25000
+25	Male	Medicine	82300
+29	Female	Medicine	61200
+24	Female	Arts	31500
+27	Female	Business	31400
+20	Female	Computer Science	62000
+18	Female	Law	61600
+22	Male	Law	56500
+21	Female	Mathematics	35800
+27	Male	Engineering	53500
+25	Female	Arts	40300
+18	Male	Business	45900
+27	Male	Arts	35200
+18	Male	Business	39800
+29	Male	Medicine	25000
+21	Male	Business	72500
+25	Male	Medicine	37300
+22	Other	Medicine	70600
+19	Male	Computer Science	43200
+23	Female	Mathematics	41100
+22	Female	Business	25000
+19	Other	Engineering	78600
+28	Female	Engineering	65700
+28	Female	Business	35800
+28	Male	Mathematics	63800
+20	Male	Computer Science	66100
+26	Male	Engineering	53100
+24	Female	Arts	52600
+24	Female	Engineering	49800
+28	Male	Computer Science	38300
+23	Male	Medicine	44000
+25	Female	Medicine	35500
+21	Male	Medicine	65500
+25	Female	Computer Science	74900
+21	Female	Medicine	55400
+25	Female	Mathematics	42100
+26	Female	Medicine	43300
+20	Female	Computer Science	55300
+20	Female	Arts	58400
+28	Female	Engineering	52200
+19	Female	Computer Science	39200
+27	Male	Computer Science	67600
+20	Male	Business	51900
+20	Male	Medicine	56900
+22	Male	Law	25000
+22	Female	Arts	46700
+19	Female	Law	60700
+29	Male	Business	31500
+27	Male	Arts	25000
+23	Other	Medicine	67000
+22	Male	Law	51900
+23	Male	Medicine	53000
+18	Female	Medicine	56000
+22	Female	Engineering	53900
+26	Male	Arts	25000
+29	Male	Arts	43900
+27	Male	Business	47900
+19	Female	Computer Science	52400
+18	Female	Medicine	50400
+27	Male	Medicine	43500
+28	Female	Law	63200
+26	Female	Business	45700
+27	Male	Arts	52800
+26	Female	Engineering	73900
+26	Female	Arts	28400
+23	Male	Engineering	25000
+25	Male	Engineering	55100
+28	Female	Arts	58800
+18	Female	Law	82700
+27	Female	Medicine	50500
+21	Female	Engineering	47400
+18	Female	Law	42100
+25	Male	Business	66300
+18	Female	Business	57600
+20	Male	Engineering	62300
+21	Male	Medicine	54100
+25	Female	Engineering	62900
+23	Female	Business	71100
+27	Male	Mathematics	58900
+29	Female	Business	41900
+24	Male	Arts	35500
+25	Male	Mathematics	52300
+19	Male	Medicine	72700
+27	Female	Arts	53100
+28	Female	Mathematics	25100
+25	Male	Law	76700
+20	Female	Mathematics	56900
+24	Male	Law	48600
+20	Female	Law	47500
+24	Male	Mathematics	25000
+28	Male	Mathematics	37600
+29	Female	Computer Science	37300
+19	Male	Mathematics	59400
+27	Male	Law	46800
+23	Female	Engineering	66400
+20	Other	Arts	25000
+20	Male	Law	83900
+26	Male	Medicine	68600
+24	Male	Mathematics	56400
+22	Female	Law	44800
+29	Male	Engineering	61800
+27	Female	Mathematics	51300
+24	Other	Engineering	47000
+26	Male	Engineering	61200
+18	Male	Engineering	63000
+24	Male	Engineering	55300
+23	Male	Medicine	42800
+27	Female	Computer Science	48200
+29	Male	Business	29800
+26	Male	Computer Science	29000
+18	Female	Business	41000
+21	Male	Arts	64500
+26	Female	Mathematics	51800
+21	Male	Engineering	64300
+27	Female	Arts	69400
+20	Female	Arts	55400
+26	Female	Mathematics	34400
+19	Female	Business	62200
+21	Male	Medicine	33000
+23	Male	Engineering	42000
+19	Female	Law	70300
+25	Female	Mathematics	49900
+25	Male	Mathematics	56900
+18	Male	Arts	25000
+29	Male	Computer Science	45200
+20	Male	Engineering	54200
+27	Male	Medicine	51400
+26	Female	Engineering	61800
+22	Male	Law	40500
+23	Male	Law	67200
+21	Female	Arts	43100
+27	Female	Computer Science	50300
+19	Female	Arts	35200
+28	Female	Medicine	58300
+25	Male	Business	38600
+28	Female	Law	53900
+23	Female	Computer Science	62200
+22	Male	Law	63800
+26	Female	Medicine	89300
+18	Female	Medicine	50100
+22	Male	Law	45400
+23	Male	Arts	40600
+22	Male	Law	59200
+23	Male	Arts	48100
+23	Male	Law	37300
+24	Female	Arts	36900
+21	Male	Business	68800
+28	Female	Engineering	63200
+25	Female	Engineering	69800
+24	Female	Arts	28600
+26	Female	Arts	44600
+24	Male	Mathematics	36300
+20	Male	Mathematics	52000
+20	Female	Business	38100
+25	Female	Engineering	71000
+22	Female	Business	44600
+21	Male	Mathematics	77800
+25	Female	Mathematics	62900
+23	Male	Medicine	63600
+19	Female	Law	75900
+21	Other	Mathematics	51000
+29	Male	Engineering	62600
+28	Female	Arts	54700
+21	Male	Computer Science	38200
+23	Male	Mathematics	40500
+23	Female	Medicine	47000
+18	Female	Law	56700
+25	Female	Computer Science	61300
+23	Female	Business	58400
+20	Female	Law	58700
+26	Female	Business	45800
+19	Female	Business	25000
+28	Male	Arts	61500
+25	Other	Business	38000
+27	Male	Mathematics	82300
+20	Female	Computer Science	55200
+29	Male	Medicine	70700
+22	Male	Mathematics	33500
+23	Male	Arts	66900
+27	Female	Medicine	60700
+23	Male	Business	55700
+21	Male	Engineering	34200
+20	Female	Law	39400
+21	Female	Arts	59800
+18	Male	Business	39400
+21	Male	Arts	37600
+18	Male	Engineering	42400
+29	Male	Computer Science	57500
+18	Female	Mathematics	71300
+27	Female	Computer Science	56200
+23	Female	Law	68300
+22	Male	Computer Science	47900
+28	Female	Mathematics	80600
+21	Female	Mathematics	70000
+28	Female	Engineering	63400
+20	Female	Medicine	56900
+18	Female	Engineering	56000
+23	Female	Engineering	27600
+19	Male	Business	26900
+25	Female	Computer Science	59800
+27	Female	Arts	51100
+22	Female	Mathematics	58400
+24	Male	Law	33100
+27	Female	Medicine	72800
+29	Female	Mathematics	47000
+19	Male	Arts	55700
+25	Male	Business	42500
+19	Female	Business	54900
+21	Female	Medicine	85700
+18	Female	Arts	67400
+22	Male	Medicine	41500
+26	Female	Medicine	34900
+18	Male	Computer Science	55300
+26	Male	Arts	45000
+28	Male	Computer Science	39800
+25	Male	Mathematics	79800
+23	Male	Computer Science	25000
+24	Male	Mathematics	60700
+20	Male	Law	79100
+18	Male	Computer Science	32600
+22	Female	Engineering	43700
+29	Female	Business	45100
+29	Male	Business	74100
+19	Female	Engineering	49600
+22	Male	Mathematics	80700
+25	Female	Mathematics	62800
+28	Male	Medicine	44700
+26	Male	Arts	33100
+19	Female	Arts	34800
+29	Female	Arts	59900
+20	Female	Computer Science	88500
+20	Female	Arts	42900
+18	Female	Arts	40400
+25	Male	Mathematics	59800
+23	Male	Arts	47100
+29	Male	Business	43000
+25	Male	Engineering	73300
+28	Female	Law	72900
+26	Female	Mathematics	54300
+22	Male	Medicine	40200
+29	Female	Engineering	55800
+20	Female	Arts	65400
+22	Male	Medicine	70200
+22	Male	Medicine	66900
+22	Male	Engineering	25000
+20	Male	Engineering	57400
+28	Male	Engineering	61600
+27	Female	Mathematics	63900
+21	Male	Mathematics	55400
+26	Male	Law	50600
+27	Other	Engineering	45600
+26	Female	Law	38100
+19	Female	Computer Science	40500
+25	Male	Business	70700
+25	Male	Law	60700
+24	Female	Business	62400
+25	Male	Arts	41500
+20	Male	Computer Science	58000
+23	Female	Medicine	77600
+18	Female	Engineering	52100
+24	Male	Arts	61900
+18	Female	Medicine	42400
+26	Male	Mathematics	44200
+18	Male	Business	54300
+18	Male	Medicine	39600
+24	Male	Engineering	38800
+19	Male	Engineering	47500
+22	Female	Law	53100
+25	Female	Law	40800
+25	Female	Mathematics	52600
+20	Male	Business	33200
+24	Male	Engineering	52500
+20	Male	Computer Science	25000
+23	Male	Arts	66200
+23	Male	Business	26700
+20	Female	Business	73300
+24	Female	Medicine	56400
+20	Female	Business	58900
+25	Male	Mathematics	43400
+27	Female	Arts	58100
+21	Male	Computer Science	52800
+18	Male	Medicine	32700
+21	Male	Arts	61600
+24	Female	Law	37500
+28	Other	Business	85100
+21	Male	Mathematics	38200
+23	Female	Engineering	25700
+26	Female	Law	75400
+18	Male	Engineering	61700
+22	Male	Arts	56800
+28	Male	Computer Science	41700
+24	Other	Engineering	51000
+18	Male	Mathematics	47600
+21	Female	Arts	63400
+23	Male	Medicine	41100
+19	Female	Business	42500
+27	Male	Computer Science	60800
+22	Female	Mathematics	69900
+28	Female	Mathematics	44200
+27	Female	Computer Science	59700
+18	Female	Medicine	65600
+23	Male	Computer Science	36200
+23	Female	Arts	45800
+21	Male	Computer Science	25000
+25	Male	Computer Science	80900
+21	Female	Computer Science	53700
+25	Male	Arts	63700
+25	Female	Law	44100
+22	Other	Business	42600
+21	Male	Engineering	48400
+29	Female	Law	47400
+19	Male	Computer Science	85500
+28	Male	Medicine	56000
+20	Male	Mathematics	60200
+20	Female	Medicine	50300
+21	Female	Arts	51200
+21	Female	Business	60200
+27	Other	Computer Science	49500
+28	Male	Arts	71000
+28	Male	Engineering	37600
+22	Female	Business	68200
+21	Female	Business	67500
+28	Male	Arts	81300
+27	Male	Law	25000
+25	Female	Mathematics	66200
+23	Female	Medicine	40000
+23	Male	Law	63400
+25	Male	Business	63300
+24	Female	Medicine	37200
+27	Female	Business	60700
+28	Male	Mathematics	44900
+29	Female	Business	39600
+27	Male	Business	25000
+25	Male	Engineering	71200
+19	Female	Medicine	48600
+26	Female	Engineering	34200
+18	Male	Medicine	54800
+25	Female	Mathematics	51600
+29	Female	Mathematics	36200
+28	Female	Engineering	36500
+29	Female	Engineering	66600
+29	Female	Engineering	53200
+21	Female	Mathematics	40300
+21	Male	Mathematics	44300
+22	Male	Arts	44500
+25	Male	Engineering	25000
+22	Female	Law	64100
+25	Female	Law	44500
+27	Male	Business	47700
+18	Male	Computer Science	58400
+29	Female	Engineering	68700
+27	Male	Computer Science	53000
+26	Female	Computer Science	33600
+23	Male	Business	46300
+20	Female	Computer Science	49000
+25	Female	Mathematics	25000
+26	Male	Computer Science	57100
+23	Male	Mathematics	59900
+28	Male	Mathematics	51400
+24	Female	Law	37500
+18	Female	Mathematics	53200
+22	Male	Computer Science	65400
+22	Female	Medicine	46700
+27	Female	Engineering	62000
+21	Male	Engineering	56500
+23	Male	Computer Science	25000
+24	Female	Business	42300
+26	Female	Medicine	57800
+18	Female	Business	52000
+23	Female	Business	64100
+24	Female	Computer Science	53500
+20	Male	Arts	59800
+25	Female	Computer Science	45000
+22	Female	Law	55000
+26	Female	Arts	34700
+22	Male	Mathematics	63000
+26	Male	Medicine	54100
+27	Male	Arts	31800
+21	Male	Computer Science	46600
+26	Male	Computer Science	87500
+22	Female	Business	47100
+27	Female	Computer Science	45400
+26	Male	Mathematics	38600
+20	Female	Law	33800
+21	Male	Computer Science	35300
+26	Male	Engineering	80300
+27	Male	Engineering	55500
+28	Female	Business	28800
+23	Male	Arts	50300
+19	Male	Arts	65400
+24	Male	Engineering	56400
+19	Female	Law	29400
+28	Male	Medicine	59700
+19	Female	Mathematics	50500
+28	Female	Mathematics	53200
+18	Female	Mathematics	77800
+28	Female	Law	49700
+28	Male	Engineering	39500
+29	Male	Mathematics	25000
+28	Female	Law	39600
+20	Male	Medicine	38700
+23	Female	Arts	25000
+25	Female	Engineering	60100
+26	Female	Computer Science	57600
+24	Female	Mathematics	49600
+21	Other	Medicine	35100
+23	Female	Medicine	53700
+22	Male	Medicine	59400
+25	Female	Arts	76500
+18	Male	Law	55200
+18	Male	Business	56900
+28	Female	Mathematics	52500
+23	Male	Computer Science	47100
+27	Male	Mathematics	61700
+29	Male	Engineering	49200
+19	Female	Law	47800
+22	Female	Medicine	44500
+18	Female	Mathematics	45600
+24	Male	Arts	55100
+18	Female	Medicine	59300
+21	Female	Law	39200
+26	Male	Engineering	53200
+18	Male	Computer Science	36600
+21	Male	Medicine	59500
+23	Other	Mathematics	72100
+23	Female	Mathematics	58300
+29	Female	Arts	45200
+25	Male	Arts	65400
+18	Female	Business	31500
+24	Female	Arts	54500
+18	Female	Business	92400
+24	Other	Computer Science	36800
+20	Male	Engineering	45100
+28	Male	Business	46700
+25	Female	Medicine	33200
+20	Female	Law	38700
+18	Female	Mathematics	50400
+25	Male	Medicine	74100
+20	Female	Mathematics	57200
+19	Male	Engineering	66800
+18	Male	Arts	62500
+20	Female	Law	55200
+19	Female	Medicine	25000
+19	Male	Law	74200
+23	Male	Business	65400
+29	Male	Engineering	54200
+18	Male	Medicine	30800
+19	Female	Arts	28100
+23	Female	Law	32000
+20	Male	Arts	39700
+21	Female	Law	55500
+18	Female	Medicine	46300
+25	Female	Engineering	51400
+24	Male	Computer Science	58300
+24	Female	Medicine	69600
+20	Male	Arts	40600
+27	Male	Computer Science	25000
+27	Male	Engineering	38000
+20	Female	Arts	59000
+19	Male	Engineering	62600
+29	Male	Law	62900
+18	Male	Medicine	39600
+24	Female	Engineering	54900
+24	Female	Arts	72800
+29	Male	Medicine	61300
+19	Female	Mathematics	25000
+24	Female	Arts	49300
+25	Female	Arts	45000
+18	Male	Mathematics	27600
+26	Female	Mathematics	72000
+24	Female	Computer Science	29200
+20	Female	Business	48500
+25	Male	Engineering	69600
+24	Female	Engineering	36800
+28	Female	Computer Science	49500
+25	Female	Law	57300
+23	Male	Engineering	38000
+26	Male	Mathematics	41400
+22	Female	Computer Science	54500
+20	Female	Engineering	59600
+20	Male	Engineering	61800
+18	Female	Arts	35500
+29	Male	Computer Science	25600
+25	Female	Mathematics	62800
+19	Female	Law	68700
+20	Female	Engineering	88900
+25	Female	Law	96900
+25	Male	Business	76400
+28	Female	Computer Science	34500
+21	Male	Computer Science	47100
+21	Female	Computer Science	59700
+22	Female	Mathematics	56900
+23	Female	Mathematics	47500
+22	Male	Arts	69900
+24	Female	Computer Science	42500
+19	Male	Arts	53400
+24	Male	Mathematics	51100
+27	Female	Business	57200
+24	Male	Medicine	58200
+18	Female	Arts	37100
+24	Male	Engineering	25000
+22	Male	Computer Science	43100
+20	Female	Medicine	53700
+20	Female	Arts	57400
+21	Male	Law	40800
+29	Female	Mathematics	54400
+19	Female	Law	54000
+19	Female	Engineering	40000
+18	Male	Medicine	47600
+22	Female	Business	32000
+21	Female	Arts	25000
+28	Female	Law	68300
+27	Male	Law	53000
+19	Female	Arts	44900
+20	Female	Law	55700
+24	Female	Business	57000
+24	Male	Law	80300
+29	Female	Arts	70100
+21	Female	Computer Science	55300
+22	Male	Law	82200
+22	Male	Arts	48600
+23	Female	Computer Science	68200
+26	Male	Law	42000
+19	Other	Law	50800
+22	Female	Arts	60100
+29	Female	Engineering	53300
+20	Male	Engineering	54400
+21	Male	Medicine	53800
+27	Female	Engineering	69600
+23	Male	Business	51500
+29	Female	Medicine	41100
+25	Male	Engineering	49200
+18	Male	Computer Science	69400
+27	Male	Mathematics	62800
+25	Female	Arts	48400
+28	Other	Engineering	38400
+24	Male	Computer Science	41700
+18	Male	Mathematics	49800
+19	Male	Medicine	48800
+20	Female	Arts	39100
+18	Male	Engineering	64300
+26	Female	Medicine	41500
+25	Female	Engineering	36400
+19	Female	Medicine	47000
+26	Male	Engineering	57000
+24	Other	Mathematics	36200
+26	Male	Computer Science	50800
+23	Male	Business	43500
+23	Female	Mathematics	45100
+28	Female	Computer Science	49900
+21	Male	Arts	58900
+27	Male	Engineering	50100
+27	Female	Business	89300
+19	Male	Mathematics	60300
+24	Female	Business	56100
+22	Female	Arts	45500
+28	Male	Arts	42400
+23	Male	Business	65200
+19	Male	Arts	26200
+22	Female	Arts	66900
+27	Female	Engineering	67400
+21	Male	Computer Science	48200
+26	Female	Law	67300
+23	Other	Medicine	45700
+19	Male	Business	48600
+18	Female	Medicine	57600
+22	Male	Business	44400
+26	Male	Business	60700
+23	Male	Computer Science	43000
+27	Male	Mathematics	54100
+29	Male	Mathematics	89600
+24	Male	Business	57200
+22	Female	Business	66300
+27	Female	Computer Science	63700
+23	Female	Arts	25000
+22	Male	Mathematics	48600
+28	Male	Law	70600
+26	Male	Medicine	32200
+23	Female	Business	47400
+28	Female	Computer Science	82000
+25	Male	Business	33100
+19	Male	Mathematics	67300
+29	Female	Computer Science	37100
+26	Male	Medicine	58500
+22	Male	Engineering	61000
+24	Female	Mathematics	62100
+27	Female	Arts	35900
+18	Male	Engineering	67600
+27	Male	Computer Science	39400
+22	Other	Business	26500
+29	Male	Arts	35300
+27	Male	Mathematics	37500
+19	Male	Medicine	61400
+29	Male	Mathematics	65300
+23	Male	Law	52200
+28	Female	Arts	35600
+18	Male	Business	42100
+20	Male	Engineering	48700
+22	Female	Computer Science	31500
+21	Female	Engineering	33400
+20	Female	Mathematics	49900
+27	Female	Arts	46900
+22	Male	Law	33500
+28	Female	Business	69500
+25	Male	Computer Science	39500
+28	Other	Business	32200
+21	Female	Business	69300
+18	Other	Law	54600
+28	Female	Arts	45700
+24	Male	Engineering	39500
+25	Female	Business	44500
+20	Other	Mathematics	39000
+23	Female	Mathematics	42200
+19	Male	Business	52600
+24	Female	Business	36400
+25	Male	Computer Science	25000
+23	Male	Business	75400
+23	Male	Mathematics	31800
+22	Male	Business	25900
+25	Female	Arts	68200
+18	Male	Mathematics	43000
+27	Female	Business	55100
+21	Male	Law	62600
+21	Male	Law	63900
+20	Male	Mathematics	57700
+20	Male	Business	39900
+21	Male	Law	30600
+28	Male	Arts	77000
+18	Female	Computer Science	52000
+28	Male	Law	57000
+28	Male	Mathematics	42700
+19	Male	Law	54900
+26	Female	Engineering	43700
+27	Female	Arts	45700
+19	Female	Law	29800
+22	Male	Computer Science	56700
+26	Male	Engineering	25000
+26	Female	Mathematics	66900
+25	Male	Mathematics	78700
+18	Male	Business	43300
+18	Male	Arts	63300
+26	Male	Law	44200
+28	Male	Business	49900
+25	Female	Arts	41700
+27	Male	Mathematics	43600
+26	Female	Engineering	43600
+24	Male	Law	25000
+20	Male	Mathematics	54900
+20	Female	Computer Science	25000
+19	Male	Arts	44100
+22	Female	Mathematics	25000
+29	Female	Mathematics	44400
+29	Male	Computer Science	53900
+20	Female	Business	70400
+23	Male	Mathematics	49300
+19	Female	Business	45500
+29	Male	Engineering	33200
+20	Female	Engineering	36900
+22	Male	Medicine	67600
+29	Female	Medicine	56900
+28	Female	Engineering	36400
+28	Female	Law	25000
+18	Female	Business	74600
+18	Female	Computer Science	31400
+27	Female	Mathematics	49800
+26	Male	Mathematics	36900
+24	Male	Engineering	33500
+18	Male	Law	52800
+29	Male	Computer Science	62800
+25	Male	Medicine	59900
+20	Female	Computer Science	59000
+25	Male	Engineering	34600
+22	Female	Business	52500
+18	Male	Engineering	55000
+24	Male	Mathematics	28800
+22	Female	Mathematics	25000
+23	Female	Arts	50800
+23	Female	Law	37600
+25	Female	Law	30600
+26	Male	Law	25000
+19	Female	Arts	39400
+26	Male	Arts	73600
+29	Male	Business	62900
+28	Male	Law	72000
+27	Male	Engineering	38900
+26	Male	Arts	66100
+27	Female	Engineering	68600
+27	Female	Medicine	72300
+24	Male	Law	46200
+18	Male	Arts	42800
+24	Male	Arts	48700
+27	Male	Business	51400
+22	Female	Engineering	30400
+23	Male	Business	41400
+27	Female	Business	66700
+24	Male	Engineering	41600
+22	Other	Medicine	51100
+24	Male	Engineering	57100
+26	Female	Medicine	68700
+20	Male	Business	59100
+25	Female	Medicine	64000
+19	Male	Law	56500
+28	Male	Medicine	54400
+24	Female	Medicine	63100
+19	Female	Arts	25000
+21	Female	Arts	60600
+24	Female	Mathematics	25000
+20	Female	Business	42300
+19	Male	Engineering	63400
+28	Male	Medicine	47500
+27	Male	Law	48900
+24	Female	Arts	53600
+18	Male	Engineering	77900
+25	Male	Law	25000
+20	Female	Medicine	39200
+29	Female	Engineering	70900
+29	Male	Mathematics	46200
+19	Male	Law	47100
+20	Male	Computer Science	60200
+22	Male	Law	31300
+28	Male	Law	63200
+25	Female	Medicine	44500
+27	Female	Engineering	47500
+24	Female	Medicine	37800
+24	Male	Medicine	57600
+29	Female	Computer Science	45300
+24	Male	Mathematics	54100
+25	Male	Law	44400
+18	Female	Engineering	49400
+21	Male	Mathematics	41600
+23	Male	Business	44800
+26	Female	Arts	37100
+19	Male	Mathematics	35100
+18	Female	Medicine	76300
+27	Male	Medicine	52800
+29	Female	Medicine	25000
+19	Male	Medicine	48200
+24	Male	Arts	64800
+20	Female	Business	25000
+27	Male	Computer Science	58400
+19	Male	Business	49100
+28	Male	Arts	25000
+24	Male	Engineering	40400
+19	Male	Computer Science	46700
+20	Male	Computer Science	30700
+28	Female	Engineering	38500
+24	Male	Law	53400
+21	Female	Medicine	53500
+18	Male	Arts	56500
+22	Male	Engineering	39900
+29	Female	Business	66200
+26	Male	Business	47800
+25	Other	Law	43400
+29	Male	Engineering	46400
+26	Female	Arts	55200
+27	Female	Law	54300
+26	Female	Law	43000
+24	Female	Law	64000
+21	Female	Computer Science	46700
+22	Male	Computer Science	60100
+18	Male	Medicine	70400
+18	Female	Arts	42300
+20	Male	Business	44100
+25	Male	Business	33100
+19	Female	Medicine	35800
+21	Male	Business	60000
+19	Female	Law	59800
+22	Female	Medicine	25000
+26	Female	Medicine	34500
+18	Female	Engineering	70600
+22	Male	Computer Science	37200
+26	Male	Arts	46000
+18	Male	Arts	50500
+26	Male	Computer Science	52300
+25	Female	Law	28000
+21	Female	Arts	52300
+29	Male	Business	25000
+28	Male	Business	40100
+27	Other	Arts	44500
+22	Male	Mathematics	25400
+22	Female	Mathematics	59800
+28	Male	Engineering	36200
+29	Female	Arts	75000
+23	Female	Medicine	56100
+24	Female	Law	46200
+25	Female	Medicine	60900
+25	Male	Computer Science	25000
+28	Male	Law	52600
+19	Female	Law	31000
+26	Male	Business	62100
+24	Female	Law	43100
+21	Female	Engineering	25000
+21	Female	Arts	29300
+28	Female	Medicine	49900
+25	Female	Business	55000
+21	Female	Mathematics	26400
+23	Male	Business	25000
+22	Male	Engineering	43400
+20	Male	Engineering	73900
+27	Female	Engineering	41800
+28	Male	Engineering	53200
+19	Female	Mathematics	25000
+26	Male	Medicine	90400
+27	Female	Engineering	33300
+26	Male	Business	51300
+18	Female	Business	25000
+27	Female	Mathematics	56000
+20	Male	Law	40900
+25	Male	Arts	53400
+23	Female	Business	45400
+22	Female	Business	57000
+22	Male	Mathematics	65500
+23	Other	Medicine	28700
+24	Female	Law	74800
+18	Female	Business	39100
+26	Male	Computer Science	56600
+20	Male	Business	36500
+21	Female	Arts	51700
+27	Female	Arts	44200
+18	Female	Law	79600
+28	Male	Law	38200
+27	Male	Engineering	73900
+20	Male	Medicine	34700
+19	Male	Arts	73900
+19	Male	Computer Science	64600
+18	Male	Computer Science	44300
+25	Other	Engineering	47300
+20	Male	Medicine	52300
+20	Female	Medicine	50000
+23	Female	Law	56000
+25	Female	Business	51700
+26	Male	Computer Science	34900
+26	Female	Computer Science	42000
+21	Female	Mathematics	54200
+22	Female	Computer Science	33800
+19	Female	Computer Science	42000
+28	Other	Mathematics	57900
+26	Female	Arts	53600
+25	Male	Medicine	45600
+20	Female	Business	65200
+28	Male	Arts	64500
+29	Female	Medicine	41100
+26	Male	Engineering	59900
+20	Male	Computer Science	36500
+26	Female	Business	53900
+19	Female	Medicine	53700
+29	Male	Engineering	50000
+27	Male	Computer Science	46000
+26	Female	Engineering	50800
+25	Male	Mathematics	49800
+26	Female	Engineering	25000
+22	Male	Arts	70700
+28	Female	Engineering	59400
+28	Female	Arts	43100
+19	Male	Law	64200
+25	Male	Arts	42200
+29	Male	Mathematics	25000
+23	Female	Mathematics	55000
+25	Female	Engineering	25900
+28	Female	Medicine	29900
+22	Male	Engineering	33700
+27	Male	Engineering	51400
+19	Male	Medicine	52500
+23	Male	Computer Science	65800
+22	Female	Business	31500
+29	Female	Law	39000
+29	Female	Computer Science	69200
+22	Male	Engineering	57800
+18	Female	Computer Science	54600
+19	Female	Business	49400
+25	Female	Mathematics	56000
+20	Female	Computer Science	50400
+27	Male	Business	51500
+20	Male	Computer Science	56900
+25	Female	Arts	36300
+25	Male	Engineering	52800
+19	Male	Business	25000
+25	Female	Law	50100
+28	Female	Engineering	42500
+18	Female	Arts	62200
+23	Male	Mathematics	29000
+25	Male	Computer Science	52900
+20	Female	Engineering	59300
+25	Other	Computer Science	61200
+29	Female	Computer Science	40200
+18	Female	Engineering	44700
+28	Female	Business	56200
+28	Female	Business	32700
+26	Male	Engineering	43300
+28	Female	Business	36900
+26	Female	Medicine	25000
+22	Female	Computer Science	72000
+27	Female	Engineering	50400
+21	Female	Law	34300
+28	Male	Arts	25000
+23	Female	Mathematics	54800
+29	Male	Engineering	26500
+24	Female	Engineering	40000
+22	Male	Computer Science	49300
+28	Male	Arts	31400
+27	Male	Computer Science	74800
+26	Female	Law	34600
+20	Male	Mathematics	31400
+24	Male	Business	53400
+27	Female	Engineering	44700
+27	Male	Computer Science	79000
+28	Female	Mathematics	71100
+22	Female	Law	72500
+24	Female	Law	58200
+19	Male	Mathematics	60100
+21	Female	Medicine	44400
+19	Male	Engineering	60100
+29	Male	Law	40100
+24	Male	Mathematics	48000
+19	Female	Business	29200
+28	Male	Computer Science	43400
+18	Female	Computer Science	58400
+26	Female	Medicine	66400
+18	Female	Business	56800
+25	Male	Law	70600
+19	Other	Mathematics	28700
+29	Female	Medicine	57900
+25	Female	Law	36800
+20	Male	Law	56300
+23	Female	Engineering	37800
+20	Male	Arts	41500
+24	Male	Mathematics	62800
+27	Male	Law	53700
+26	Female	Computer Science	37500
+19	Male	Law	27400
+29	Male	Medicine	36800
+29	Female	Mathematics	48900
+22	Female	Law	31800
+23	Male	Mathematics	53700
+21	Female	Computer Science	33500
+21	Male	Computer Science	47100
+21	Male	Medicine	54900
+19	Male	Computer Science	42700
+21	Female	Business	65900
+28	Male	Business	55500
+18	Male	Arts	36100
+29	Male	Mathematics	33000
+23	Female	Business	73300
+18	Male	Medicine	66500
+27	Male	Law	44700
+23	Male	Business	54300
+18	Male	Arts	45700
+23	Female	Mathematics	59800
+27	Female	Engineering	52500
+25	Male	Engineering	25000
+28	Male	Medicine	67100
+19	Male	Arts	70300
+19	Male	Business	42900
+29	Male	Arts	54700
+21	Female	Computer Science	66300
+28	Other	Arts	101000
+20	Other	Business	57900
+21	Female	Medicine	55200
+29	Female	Computer Science	62900
+24	Female	Arts	64400
+28	Male	Engineering	58000
+18	Female	Business	30700
+23	Male	Medicine	52700
+20	Female	Law	54400
+28	Female	Business	28000
+27	Male	Arts	59500
+24	Male	Mathematics	33100
+27	Female	Medicine	69800
+19	Male	Engineering	38000
+19	Female	Computer Science	64200
+21	Female	Arts	39700
+18	Female	Medicine	68900
+20	Female	Computer Science	70800
+26	Male	Mathematics	58500
+24	Male	Medicine	40600
+24	Female	Law	56300
+28	Female	Arts	39100
+21	Female	Medicine	32900
+19	Male	Engineering	42300
+21	Male	Mathematics	49200
+23	Other	Medicine	40500
+28	Male	Arts	46000
+28	Female	Medicine	41600
+20	Male	Computer Science	50200
+18	Female	Computer Science	46600
+29	Female	Mathematics	27200
+25	Female	Law	49400
+29	Male	Business	38000
+22	Female	Mathematics	36400
+22	Female	Law	36300
+28	Male	Mathematics	52600
+21	Female	Business	56000
+23	Female	Engineering	51900
+20	Female	Computer Science	60900
+26	Female	Business	50000
+22	Male	Medicine	52000
+20	Male	Engineering	37200
+28	Male	Arts	57400
+18	Female	Business	47800
+27	Female	Mathematics	59400
+29	Female	Law	48600
+23	Male	Business	50000
+19	Male	Law	38200
+20	Female	Mathematics	47600
+18	Male	Mathematics	80500
+26	Male	Law	25000
+25	Female	Computer Science	43200
+29	Male	Engineering	61700
+19	Male	Law	39300
+29	Male	Computer Science	51700
+28	Male	Computer Science	48500
+25	Other	Law	62800
+29	Male	Engineering	46300
+26	Male	Medicine	25300
+18	Male	Mathematics	75300
+22	Female	Business	48100
+25	Male	Computer Science	52400
+28	Female	Business	43200
+19	Male	Engineering	52500
+21	Male	Medicine	64700
+24	Male	Arts	47800
+20	Female	Mathematics	38300
+29	Female	Mathematics	30400
+22	Male	Medicine	67600
+25	Female	Engineering	43400
+29	Female	Medicine	58300
+27	Male	Mathematics	60400
+20	Female	Arts	46600
+21	Male	Computer Science	48800
+26	Female	Medicine	50200
+24	Female	Law	62100
+18	Female	Law	37800
+29	Female	Engineering	47000
+21	Male	Mathematics	54400
+21	Female	Mathematics	54700
+26	Male	Medicine	59300
+23	Male	Arts	30100
+26	Female	Engineering	45100
+29	Female	Medicine	56100
+23	Female	Engineering	30500
+23	Male	Law	76300
+22	Female	Arts	26800
+22	Female	Computer Science	33000
+19	Male	Arts	39300
+25	Male	Computer Science	37600
+25	Male	Mathematics	57500
+28	Male	Business	51300
+18	Other	Law	36700
+25	Female	Mathematics	81100
+22	Female	Law	61300
+19	Other	Law	53900
+19	Male	Arts	60800
+23	Female	Computer Science	56000
+28	Male	Business	52900
+26	Female	Business	57600
+18	Male	Business	49400
+29	Female	Mathematics	60100
+23	Male	Engineering	51200
+26	Male	Arts	45800
+25	Female	Arts	74500
+28	Male	Mathematics	51300
+23	Female	Law	46300
+20	Male	Arts	37100
+25	Female	Arts	35000
+26	Male	Engineering	50700
+18	Male	Arts	44600
+29	Male	Computer Science	38900
+26	Male	Mathematics	69400
+23	Male	Business	65600
+23	Male	Engineering	35100
+29	Male	Engineering	44800
+21	Male	Law	25700
+18	Female	Arts	42600
+27	Female	Business	39800
+25	Male	Mathematics	47600
+19	Female	Computer Science	36700
+29	Female	Mathematics	25000
+18	Male	Business	41700
+19	Female	Mathematics	68900
+18	Male	Medicine	40500
+18	Female	Business	79100
+26	Male	Computer Science	37400
+18	Female	Computer Science	51200
+21	Female	Computer Science	54800
+27	Male	Engineering	34400
+23	Male	Mathematics	25200
+24	Other	Engineering	66300
+19	Male	Medicine	66400
+23	Female	Business	70900
+24	Female	Arts	37700
+27	Female	Law	55500
+27	Female	Medicine	50600
+19	Female	Mathematics	48500
+19	Female	Arts	44200
+27	Male	Mathematics	61600
+24	Male	Arts	89400
+29	Male	Medicine	54200
+18	Other	Business	52700
+25	Female	Law	40200
+28	Male	Arts	60100
+20	Female	Engineering	25000
+28	Female	Engineering	45000
+23	Male	Medicine	55500
+26	Female	Law	53700
+23	Male	Law	48600
+26	Female	Mathematics	25000
+24	Male	Arts	72400
+26	Female	Medicine	53400
+19	Female	Law	49700
+29	Male	Law	68900
+25	Other	Engineering	68100
+25	Female	Medicine	46800
+19	Male	Arts	46100
+29	Male	Arts	57100
+21	Female	Engineering	68500
+28	Male	Mathematics	64800
+24	Male	Computer Science	35500
+28	Male	Computer Science	33700
+21	Male	Law	37000
+21	Female	Business	58200
+23	Male	Engineering	44200
+27	Male	Business	57500
+23	Male	Law	30500
+27	Male	Mathematics	37600
+20	Female	Engineering	57400
+26	Male	Arts	26800
+29	Other	Mathematics	76700
+27	Female	Engineering	66700
+28	Male	Medicine	70800
+19	Female	Business	61500
+23	Male	Engineering	25000
+29	Female	Business	66900
+24	Other	Mathematics	60900
+29	Male	Law	45000
+26	Male	Engineering	43200
+20	Female	Computer Science	61700
+27	Male	Business	26200
+20	Male	Arts	63800
+24	Male	Arts	40300
+21	Male	Engineering	52500
+25	Female	Arts	53000
+24	Male	Mathematics	29700
+22	Male	Arts	25800
+24	Female	Business	53700
+20	Male	Mathematics	49200
+29	Male	Engineering	54200
+19	Female	Business	34800
+23	Male	Engineering	63100
+19	Female	Arts	68200
+20	Female	Mathematics	45900
+23	Male	Engineering	32700
+22	Female	Law	41500
+25	Male	Engineering	54400
+26	Male	Medicine	56700
+28	Female	Engineering	79300
+20	Female	Medicine	62300
+29	Male	Business	46200
+27	Female	Medicine	58000
+20	Female	Mathematics	55000
+20	Other	Business	50700
+23	Female	Engineering	74900
+18	Male	Business	40600
+24	Male	Arts	59000
+29	Female	Law	58700
+18	Male	Engineering	77300
+22	Female	Mathematics	25000
+27	Male	Medicine	68200
+25	Male	Law	33400
+21	Male	Computer Science	27000
+22	Other	Law	35800
+21	Male	Engineering	27800
+29	Female	Mathematics	67800
+29	Male	Mathematics	74200
+21	Male	Law	39400
+29	Male	Law	46900
+25	Female	Arts	67000
+19	Male	Business	75100
+18	Male	Law	52300
+20	Male	Medicine	43400
+26	Male	Mathematics	28700
+21	Other	Medicine	32000
+27	Female	Arts	74400
+22	Male	Law	32200
+19	Female	Law	55900
+21	Female	Arts	46400
+19	Male	Engineering	44800
+19	Female	Computer Science	26700
+21	Female	Computer Science	46700
+23	Male	Business	74500
+24	Male	Medicine	49800
+27	Other	Engineering	58500
+20	Female	Medicine	27900
+20	Male	Engineering	48300
+27	Male	Arts	47200
+23	Male	Business	48200
+29	Female	Arts	56500
+20	Female	Medicine	53700
+19	Other	Mathematics	35200
+25	Male	Business	39000
+22	Female	Law	50000
+18	Female	Mathematics	81800
+20	Male	Engineering	38700
+27	Male	Engineering	43000
+25	Other	Business	45000
+21	Female	Arts	55000
+24	Female	Business	64400
+27	Female	Arts	55800
+29	Male	Business	34500
+19	Female	Arts	59400
+24	Female	Computer Science	72800
+22	Female	Business	50700
+22	Other	Arts	46100
+23	Female	Law	76300
+26	Male	Medicine	30300
+23	Female	Mathematics	52000
+29	Male	Mathematics	55300
+25	Male	Mathematics	54400
+24	Male	Medicine	59600
+26	Male	Business	32400
+21	Female	Business	46000
+19	Female	Engineering	44300
+24	Female	Arts	33200
+23	Female	Business	28300
+18	Male	Medicine	69000
+28	Female	Medicine	52400
+26	Male	Mathematics	35900
+26	Male	Medicine	35900
+29	Female	Arts	49500
+19	Male	Computer Science	63700
+20	Male	Business	36800
+22	Female	Mathematics	58400
+22	Female	Computer Science	71700
+18	Male	Arts	58200
+25	Other	Mathematics	37900
+29	Female	Law	48300
+25	Female	Business	45500
+21	Male	Engineering	42900
+24	Female	Business	49700
+28	Female	Business	42200
+27	Female	Business	35900
+20	Female	Mathematics	56900
+23	Male	Mathematics	64100
+27	Male	Business	65500
+27	Male	Law	34700
+29	Male	Business	65100
+26	Female	Arts	73900
+18	Male	Business	34300
+22	Other	Law	36600
+21	Female	Arts	31100
+25	Male	Business	33500
+28	Male	Business	71400
+29	Female	Arts	36400
+18	Other	Business	60700
+26	Male	Law	26900
+23	Male	Mathematics	29600
+21	Female	Medicine	38000
+29	Female	Business	58700
+26	Male	Engineering	47000
+28	Female	Arts	49000
+22	Male	Law	38200
+22	Male	Business	41800
+29	Male	Business	32800
+22	Male	Arts	60300
+18	Male	Computer Science	55200
+18	Female	Law	45500
+25	Male	Law	45000
+29	Male	Medicine	54100
+25	Male	Mathematics	64200
+29	Other	Mathematics	40400
+23	Male	Medicine	60100
+29	Male	Business	40400
+28	Female	Arts	46500
+21	Other	Engineering	47100
+19	Male	Business	66700
+19	Female	Medicine	42700
+26	Female	Business	25000
+22	Female	Arts	35500
+21	Male	Law	79200
+27	Female	Law	25200
+18	Male	Law	25000
+24	Female	Law	62100
+20	Female	Mathematics	60300
+23	Male	Engineering	44500
+22	Female	Computer Science	57900
+22	Male	Mathematics	43400
+28	Female	Engineering	35400
+22	Male	Business	75500
+18	Male	Medicine	40000
+18	Male	Arts	29800
+20	Female	Business	25000
+29	Male	Computer Science	69700
+27	Male	Arts	52600
+21	Male	Arts	62600
+22	Female	Arts	77900
+19	Female	Business	42400
+25	Male	Computer Science	81800
+28	Male	Business	48200
+28	Male	Arts	51100
+19	Male	Arts	71000
+26	Male	Mathematics	50600
+19	Female	Medicine	62500
+26	Male	Engineering	42800
+24	Male	Business	56000
+25	Male	Computer Science	71000
+28	Other	Mathematics	59000
+19	Female	Arts	43800
+24	Female	Business	51200
+29	Male	Engineering	43900
+23	Male	Business	48800
+21	Male	Engineering	72600
+24	Male	Business	52000
+21	Female	Medicine	62900
+19	Female	Business	57500
+27	Female	Mathematics	69500
+29	Female	Law	34300
+24	Male	Medicine	53100
+25	Female	Engineering	77800
+19	Male	Arts	40200
+22	Male	Arts	82800
+18	Female	Business	37300
+24	Male	Computer Science	45900
+25	Male	Business	62100
+23	Male	Medicine	52300
+22	Female	Medicine	25000
+23	Female	Engineering	56100
+19	Male	Business	52000
+18	Female	Engineering	41900
+24	Male	Computer Science	46200
+24	Male	Arts	25000
+27	Female	Arts	41800
+28	Female	Business	60900
+27	Other	Engineering	52600
+19	Male	Engineering	65200
+19	Female	Computer Science	77900
+18	Female	Engineering	37600
+27	Female	Law	36700
+25	Male	Law	64300
+25	Female	Medicine	47700
+18	Female	Law	47300
+29	Male	Law	90600
+28	Male	Medicine	68700
+25	Male	Law	52400
+26	Female	Law	57700
+21	Female	Medicine	53200
+18	Female	Business	30300
+18	Female	Mathematics	55300
+20	Female	Medicine	47900
+22	Male	Medicine	40200
+22	Male	Law	44300
+26	Female	Arts	31300
+27	Male	Mathematics	26900
+29	Male	Law	39600
+19	Female	Business	37400
+19	Male	Medicine	78800
+23	Male	Computer Science	71100
+26	Male	Medicine	43200
+18	Male	Mathematics	57900
+26	Female	Business	49900
+26	Female	Mathematics	42000
+26	Female	Engineering	35900
+22	Male	Mathematics	45200
+26	Female	Law	42800
+28	Female	Arts	47700
+21	Female	Arts	80800
+19	Male	Law	48600
+23	Female	Law	31300
+21	Female	Business	47000
+23	Female	Medicine	67500
+20	Female	Computer Science	80600
+23	Male	Medicine	29700
+19	Female	Medicine	50700
+19	Male	Computer Science	55400
+26	Female	Arts	65100
+24	Male	Medicine	47400
+20	Male	Engineering	50100
+28	Male	Engineering	43700
+18	Female	Business	30400
+25	Male	Business	64200
+23	Female	Mathematics	35700
+24	Female	Computer Science	26500
+26	Male	Computer Science	43000
+22	Male	Business	25000
+18	Male	Law	43900
+29	Female	Medicine	43100
+27	Female	Law	48600
+24	Male	Arts	42800
+22	Male	Engineering	50800
+20	Female	Computer Science	78100
+29	Female	Business	25000
+26	Female	Engineering	72900
+18	Female	Law	28400
+18	Male	Computer Science	56800
+18	Male	Computer Science	69100
+20	Male	Mathematics	47100
+29	Male	Medicine	53000
+23	Male	Computer Science	61000
+27	Male	Arts	65700
+28	Male	Computer Science	32400
+20	Female	Arts	56300
+25	Female	Law	49100
+27	Female	Mathematics	57400
+19	Female	Medicine	57300
+26	Male	Mathematics	49100
+20	Female	Arts	50200
+22	Male	Law	58100
+27	Female	Engineering	43300
+25	Male	Mathematics	61400
+19	Other	Mathematics	38900
+23	Male	Computer Science	79800
+29	Male	Mathematics	57300
+22	Female	Business	53800
+27	Male	Business	41500
+26	Female	Arts	48200
+29	Female	Medicine	56400
+22	Female	Arts	68600
+19	Other	Mathematics	32800
+22	Other	Mathematics	29800
+29	Male	Law	43100
+21	Female	Mathematics	44000
+28	Female	Law	43400
+24	Female	Mathematics	57200
+23	Male	Mathematics	53500
+19	Female	Arts	46500
+29	Other	Arts	70400
+28	Female	Engineering	84500
+28	Male	Law	58200
+22	Male	Engineering	56700
+24	Male	Arts	51100
+28	Female	Medicine	33300
+24	Female	Computer Science	64900
+22	Male	Law	46500
+29	Male	Business	49100
+26	Male	Engineering	52100
+21	Male	Law	32000
+28	Female	Computer Science	69800
+20	Female	Engineering	62600
+21	Male	Law	37700
+22	Female	Engineering	34400
+23	Male	Engineering	38200
+20	Other	Arts	38000
+19	Male	Mathematics	33100
+21	Male	Arts	54700
+22	Male	Engineering	54600
+21	Female	Engineering	31300
+28	Female	Mathematics	80600
+29	Female	Business	35000
+20	Male	Computer Science	25000
+25	Male	Mathematics	59600
+27	Male	Computer Science	49800
+21	Female	Medicine	44200
+19	Male	Mathematics	52100
+19	Female	Medicine	49300
+18	Female	Medicine	60500
+21	Female	Arts	47000
+27	Male	Arts	42600
+26	Male	Business	53200
+28	Male	Arts	61900
+24	Female	Medicine	48500
+29	Female	Law	49300
+27	Male	Engineering	69400
+24	Male	Medicine	50700
+24	Female	Business	28100
+25	Female	Engineering	51200
+18	Male	Arts	50100
+27	Female	Engineering	53900
+27	Male	Law	53500
+25	Male	Business	50200
+21	Female	Arts	54900
+21	Female	Computer Science	31900
+21	Female	Medicine	83900
+23	Male	Mathematics	51100
+24	Female	Law	34000
+23	Male	Law	27900
+18	Male	Mathematics	56900
+29	Female	Medicine	44100
+25	Male	Business	54500
+27	Female	Business	81800
+28	Female	Law	50400
+24	Male	Medicine	66300
+23	Male	Engineering	35300
+23	Male	Computer Science	53900
+22	Male	Computer Science	37200
+23	Female	Business	32600
+29	Female	Business	52800
+26	Male	Engineering	72200
+27	Male	Business	64500
+26	Female	Computer Science	90800
+27	Female	Medicine	49200
+25	Male	Law	55100
+27	Male	Computer Science	60000
+26	Female	Engineering	51700
+27	Male	Medicine	63300
+25	Male	Medicine	41900
+25	Female	Law	39600
+18	Female	Computer Science	42300
+27	Female	Mathematics	34900
+28	Female	Medicine	25000
+22	Female	Medicine	47700
+21	Male	Business	25000
+19	Male	Medicine	44000
+25	Male	Engineering	25000
+20	Male	Medicine	74000
+21	Female	Business	44000
+29	Female	Arts	25000
+24	Other	Arts	50500
+27	Female	Engineering	54000
+26	Male	Law	41000
+19	Male	Law	74200
+20	Female	Mathematics	58800
+21	Female	Mathematics	46300
+27	Female	Engineering	57900
+18	Female	Medicine	73200
+24	Female	Medicine	31800
+19	Female	Arts	37700
+22	Male	Arts	50400
+18	Female	Computer Science	25000
+20	Female	Arts	54300
+29	Male	Mathematics	74700
+19	Female	Arts	48100
+18	Male	Engineering	26200
+24	Female	Computer Science	62000
+22	Male	Law	74700
+18	Female	Computer Science	25000
+23	Male	Medicine	58000
+22	Female	Medicine	59700
+20	Male	Computer Science	57200
+29	Male	Computer Science	53500
+24	Female	Medicine	51800
+28	Female	Mathematics	46100
+27	Male	Engineering	72200
+26	Male	Engineering	51400
+26	Female	Engineering	86100
+26	Female	Engineering	64200
+19	Female	Medicine	51700
+20	Male	Mathematics	36200
+24	Female	Business	58400
+22	Male	Arts	37500
+19	Male	Arts	40100
+20	Female	Arts	44600
+27	Female	Arts	30800
+23	Female	Medicine	76400
+24	Male	Business	32000
+26	Male	Medicine	54100
+18	Male	Business	38100
+28	Other	Medicine	28500
+24	Male	Mathematics	46600
+25	Male	Computer Science	47900
+29	Male	Business	72800
+20	Female	Arts	56200
+21	Male	Business	53200
+27	Female	Law	61400
+23	Male	Engineering	45800
+27	Female	Business	40800
+24	Male	Law	40100
+21	Female	Engineering	39200
+25	Female	Law	54400
+22	Male	Engineering	28100
+18	Other	Computer Science	46500
+21	Male	Business	69900
+20	Female	Law	54600
+26	Female	Mathematics	48500
+25	Male	Computer Science	42100
+18	Male	Arts	37100
+28	Male	Business	68900
+23	Male	Medicine	51500
+26	Male	Medicine	42400
+24	Male	Medicine	45400
+21	Male	Mathematics	36700
+18	Female	Law	51700
+29	Male	Law	51600
+19	Male	Engineering	59200
+29	Female	Medicine	27200
+22	Male	Arts	52000
+29	Male	Law	58400
+28	Male	Mathematics	47600
+22	Female	Business	70200
+25	Female	Law	59700
+23	Male	Business	66300
+25	Female	Mathematics	33900
+19	Female	Law	25000
+20	Female	Engineering	54300
+23	Female	Engineering	25000
+29	Female	Engineering	41100
+27	Male	Arts	49600
+20	Male	Law	61200
+23	Male	Business	51400
+23	Female	Mathematics	71800
+19	Female	Law	39600
+24	Female	Mathematics	36300
+29	Other	Computer Science	84000
+19	Male	Engineering	47700
+23	Female	Medicine	52000
+18	Female	Mathematics	41500
+20	Other	Computer Science	36800
+19	Other	Mathematics	47600
+24	Female	Computer Science	65700
+21	Male	Mathematics	46700
+25	Female	Engineering	25000
+23	Male	Medicine	33500
+29	Female	Engineering	78300
+27	Female	Mathematics	25000
+21	Male	Engineering	39100
+22	Female	Medicine	56600
+26	Male	Computer Science	57000
+24	Male	Computer Science	57300
+27	Male	Mathematics	63400
+26	Female	Law	46700
+24	Female	Medicine	34700
+29	Female	Computer Science	46700
+18	Male	Arts	67900
+29	Female	Engineering	25100
+25	Female	Mathematics	43100
+21	Male	Arts	50300
+20	Male	Arts	40200
+24	Male	Law	42100
+29	Female	Law	56100
+20	Female	Law	52000
+25	Female	Arts	64200
+23	Male	Business	58300
+22	Female	Business	65500
+21	Male	Arts	40300
+25	Male	Engineering	89100
+25	Female	Mathematics	25000
+29	Male	Arts	62100
+18	Female	Mathematics	34800
+26	Male	Arts	25400
+22	Female	Law	75100
+21	Male	Mathematics	44400
+23	Female	Law	30900
+23	Male	Law	43900
+19	Male	Business	39800
+25	Female	Arts	47600
+24	Male	Engineering	45100
+18	Female	Engineering	29600
+22	Other	Law	51000
+29	Male	Law	49800
+23	Male	Arts	74300
+21	Female	Engineering	71700
+19	Other	Arts	50100
+21	Female	Mathematics	56900
+18	Female	Business	34300
+24	Female	Arts	59900
+19	Male	Law	91000
+19	Other	Computer Science	32800
+26	Other	Business	40800
+22	Male	Engineering	53700
+19	Male	Engineering	52800
+28	Male	Law	51700
+26	Male	Law	39700
+26	Female	Business	29000
+18	Male	Law	37200
+28	Male	Computer Science	62500
+20	Male	Business	80500
+21	Other	Law	58100
+24	Female	Mathematics	44900
+27	Male	Medicine	62400
+21	Male	Computer Science	29600
+19	Other	Business	49500
+24	Female	Medicine	41100
+23	Male	Arts	45800
+20	Male	Computer Science	41500
+23	Male	Arts	33300
+28	Male	Medicine	75500
+23	Female	Engineering	40700
+29	Female	Engineering	40600
+22	Female	Law	49100
+21	Female	Engineering	53100
+27	Male	Arts	74200
+29	Female	Computer Science	52600
+18	Female	Arts	58300
+27	Male	Arts	25000
+23	Male	Engineering	54600
+19	Female	Arts	38600
+20	Male	Medicine	38900
+25	Male	Business	32200
+27	Female	Business	45000
+23	Other	Business	55700
+20	Male	Law	56500
+24	Female	Mathematics	53000
+21	Male	Mathematics	40700
+26	Female	Engineering	39100
+22	Female	Mathematics	43700
+20	Female	Engineering	51600
+19	Male	Business	26500
+28	Female	Computer Science	46100
+19	Female	Law	44400
+20	Male	Business	55300
+19	Male	Arts	92500
+21	Male	Mathematics	49800
+19	Male	Business	50200
+27	Female	Mathematics	59900
+26	Male	Business	47000
+19	Male	Mathematics	56500
+26	Female	Computer Science	69600
+23	Male	Engineering	45600
+18	Female	Mathematics	72900
+21	Male	Engineering	52900
+18	Female	Arts	62000
+23	Female	Business	65400
+21	Female	Medicine	69900
+20	Male	Arts	67000
+20	Female	Mathematics	70900
+26	Male	Engineering	52600
+23	Male	Computer Science	39500
+26	Male	Mathematics	51500
+22	Female	Engineering	33900
+19	Male	Engineering	45100
+25	Female	Mathematics	41100
+22	Male	Computer Science	27600
+19	Male	Business	63800
+21	Female	Business	70000
+26	Male	Mathematics	39100
+21	Female	Mathematics	59600
+29	Male	Mathematics	89900
+29	Female	Engineering	67900
+29	Female	Mathematics	34600
+21	Male	Arts	63400
+19	Male	Medicine	47400
+29	Female	Mathematics	63100
+23	Female	Arts	84700
+28	Male	Law	49000
+19	Male	Arts	71200
+29	Female	Engineering	38700
+24	Female	Engineering	42800
+20	Male	Medicine	25000
+20	Female	Medicine	74400
+22	Male	Medicine	25100
+20	Female	Engineering	33000
+19	Male	Engineering	53400
+27	Other	Arts	80700
+26	Female	Engineering	25000
+19	Female	Law	55500
+28	Female	Business	28600
+19	Female	Business	75200
+25	Female	Medicine	52600
+26	Male	Engineering	73300
+24	Female	Law	38600
+20	Female	Business	43200
+26	Female	Arts	36000
+20	Male	Computer Science	71700
+22	Male	Mathematics	71300
+26	Male	Arts	40200
+29	Female	Computer Science	64600
+20	Male	Law	48500
+24	Female	Arts	25000
+29	Female	Business	57500
+18	Female	Engineering	62800
+21	Female	Computer Science	66500
+21	Male	Engineering	51100
+24	Male	Law	44900
+25	Male	Mathematics	42600
+18	Female	Mathematics	63600
+22	Male	Engineering	56300
+24	Female	Business	40400
+29	Male	Law	54200
+21	Male	Mathematics	60800
+21	Male	Medicine	61200
+21	Female	Medicine	50000
+29	Female	Computer Science	68700
+23	Male	Business	38200
+24	Female	Engineering	50700
+19	Male	Arts	64000
+22	Other	Arts	54700
+21	Female	Law	51300
+20	Male	Computer Science	38800
+24	Female	Computer Science	30700
+28	Male	Computer Science	39700
+29	Other	Business	67600
+23	Male	Arts	40200
+24	Female	Law	50000
+22	Male	Business	79800
+23	Female	Law	65400
+22	Female	Business	47700
+24	Female	Engineering	46300
+19	Female	Business	71600
+28	Female	Business	44900
+22	Male	Engineering	50100
+23	Male	Medicine	47200
+23	Male	Engineering	74600
+22	Other	Computer Science	49900
+27	Male	Mathematics	45100
+24	Female	Medicine	60400
+27	Female	Mathematics	79200
+25	Male	Arts	31700
+24	Male	Mathematics	55200
+22	Male	Law	37600
+18	Male	Business	71500
+22	Male	Medicine	33300
+27	Male	Arts	62200
+19	Female	Engineering	39000
+22	Other	Engineering	74600
+22	Male	Computer Science	86300
+19	Male	Mathematics	68500
+22	Male	Computer Science	49400
+21	Female	Medicine	31900
+18	Female	Mathematics	52900
+20	Male	Law	53900
+18	Male	Business	84900
+29	Female	Engineering	52000
+28	Female	Medicine	39300
+22	Male	Mathematics	53100
+21	Female	Medicine	44300
+24	Male	Law	48600
+22	Male	Mathematics	82400
+27	Female	Medicine	37300
+21	Female	Computer Science	64400
+19	Male	Law	45300
+21	Female	Engineering	49500
+29	Male	Mathematics	49800
+19	Female	Computer Science	35500
+25	Female	Computer Science	58800
+20	Female	Law	25000
+26	Female	Law	45500
+21	Male	Medicine	54400
+23	Female	Arts	58700
+27	Female	Arts	58000
+22	Female	Arts	33100
+27	Male	Mathematics	43700
+18	Female	Mathematics	52100
+26	Female	Medicine	38700
+18	Male	Business	52700
+25	Female	Mathematics	58100
+26	Male	Engineering	41900
+26	Male	Medicine	59600
+18	Female	Medicine	46200
+19	Female	Computer Science	37800
+29	Female	Arts	69800
+18	Male	Law	42700
+27	Other	Medicine	28400
+19	Male	Business	42300
+27	Male	Mathematics	53700
+29	Male	Engineering	55100
+25	Female	Business	33700
+22	Female	Medicine	59300
+29	Female	Medicine	49400
+28	Female	Computer Science	28200
+24	Male	Business	25000
+19	Female	Computer Science	53200
+25	Male	Law	45200
+28	Female	Business	36700
+23	Male	Arts	40700
+25	Female	Law	48500
+18	Female	Arts	48200
+18	Female	Business	48200
+29	Female	Computer Science	47800
+24	Male	Arts	79600
+25	Female	Medicine	42300
+20	Male	Mathematics	60900
+22	Female	Engineering	59100
+29	Female	Computer Science	41300
+18	Male	Law	25000
+24	Other	Mathematics	43700
+22	Female	Law	25100
+25	Male	Business	25000
+25	Female	Law	42400
+26	Male	Engineering	51200
+24	Female	Engineering	46800
+28	Female	Medicine	25500
+18	Other	Law	31800
+20	Female	Computer Science	52300
+25	Male	Engineering	59300
+20	Female	Computer Science	37500
+25	Male	Medicine	49600
+18	Female	Business	53100
+22	Female	Engineering	75900
+21	Male	Engineering	73700
+22	Male	Engineering	58900
+25	Female	Law	25000
+27	Female	Computer Science	72200
+21	Male	Mathematics	57100
+28	Male	Engineering	40300
+21	Male	Computer Science	79600
+20	Female	Law	45300
+24	Male	Arts	82300
+20	Female	Arts	33100
+29	Male	Computer Science	43600
+20	Female	Law	25000
+28	Male	Arts	43000
+27	Female	Medicine	68100
+22	Male	Medicine	41600
+22	Female	Arts	37500
+23	Male	Business	68800
+25	Female	Computer Science	52400
+27	Female	Arts	52000
+23	Male	Computer Science	33600
+29	Female	Mathematics	34800
+18	Female	Mathematics	46300
+25	Male	Law	25000
+25	Male	Mathematics	62000
+26	Male	Mathematics	59200
+26	Female	Arts	56300
+19	Female	Medicine	30300
+19	Male	Law	60600
+20	Female	Mathematics	37200
+18	Female	Business	68600
+21	Female	Computer Science	45400
+21	Female	Business	51200
+26	Female	Mathematics	59500
+26	Female	Medicine	54500
+26	Male	Mathematics	25000
+27	Female	Engineering	25000
+24	Female	Engineering	38200
+19	Male	Computer Science	56100
+27	Female	Law	75800
+22	Female	Medicine	45400
+21	Female	Mathematics	62200
+29	Male	Computer Science	60200
+28	Male	Law	29900
+25	Female	Computer Science	49900
+19	Female	Computer Science	41000
+23	Male	Business	36200
+22	Female	Arts	75500
+29	Female	Medicine	55700
+19	Male	Business	37500
+28	Male	Law	41100
+27	Male	Arts	51900
+18	Female	Computer Science	55600
+25	Male	Engineering	25000
+19	Male	Mathematics	70000
+24	Male	Business	53100
+26	Male	Medicine	36100
+26	Male	Medicine	86200
+25	Male	Arts	56500
+28	Female	Business	73200
+29	Female	Computer Science	68700
+27	Male	Arts	80300
+26	Male	Law	65900
+19	Other	Medicine	64200
+23	Male	Law	61500
+21	Male	Business	71600
+21	Male	Engineering	41600
+22	Male	Law	56200
+29	Female	Mathematics	41800
+20	Male	Computer Science	64000
+18	Female	Mathematics	45500
+25	Male	Medicine	46600
+22	Male	Mathematics	25000
+20	Female	Business	79900
+27	Male	Engineering	31400
+24	Female	Medicine	56400
+24	Male	Engineering	59200
+18	Female	Medicine	71200
+29	Male	Arts	42600
+26	Female	Mathematics	29600
+19	Male	Arts	64400
+22	Female	Arts	67400
+22	Male	Business	55500
+25	Female	Arts	50700
+25	Male	Business	49500
+24	Female	Computer Science	33400
+24	Male	Arts	25000
+29	Male	Business	74900
+28	Female	Medicine	50200
+23	Male	Business	62300
+23	Male	Law	44700
+28	Female	Business	44700
+26	Other	Mathematics	43000
+23	Male	Law	47100
+29	Female	Medicine	66900
+19	Female	Mathematics	52000
+19	Male	Business	75200
+22	Female	Mathematics	33000
+21	Female	Medicine	47300
+28	Other	Mathematics	49200
+19	Male	Law	60900
+20	Female	Engineering	39500
+24	Male	Arts	67300
+25	Male	Law	59500
+29	Male	Computer Science	74000
+23	Other	Business	42400
+28	Female	Mathematics	25100
+22	Female	Medicine	64500
+18	Female	Arts	66400
+25	Male	Mathematics	25000
+20	Male	Business	58500
+23	Male	Arts	54700
+20	Male	Engineering	41800
+24	Female	Business	73300
+24	Female	Mathematics	43700
+29	Male	Medicine	75500
+26	Male	Engineering	64100
+22	Male	Business	60800
+25	Male	Arts	57300
+27	Female	Mathematics	61000
+27	Female	Engineering	41100
+25	Female	Medicine	32100
+18	Male	Business	75500
+29	Male	Arts	41500
+22	Male	Mathematics	46800
+20	Female	Arts	29900
+18	Female	Law	59300
+21	Male	Engineering	34100
+25	Female	Mathematics	56200
+20	Female	Business	45100
+27	Female	Law	53500
+19	Female	Arts	75300
+28	Female	Engineering	33000
+26	Female	Computer Science	42300
+27	Male	Mathematics	38500
+22	Male	Arts	57400
+24	Male	Engineering	56200
+28	Male	Computer Science	46800
+28	Female	Mathematics	67600
+19	Female	Engineering	50400
+26	Male	Arts	40800
+26	Female	Computer Science	69800
+21	Male	Mathematics	46400
+21	Male	Engineering	47500
+23	Male	Business	48700
+27	Male	Computer Science	53400
+27	Male	Engineering	67800
+27	Female	Business	63400
+23	Male	Computer Science	59300
+29	Other	Engineering	35500
+18	Male	Arts	49600
+26	Male	Computer Science	47900
+19	Male	Computer Science	58400
+22	Female	Mathematics	47100
+26	Male	Business	71600
+21	Female	Law	59700
+28	Female	Mathematics	58900
+20	Female	Law	35300
+24	Female	Engineering	39200
+23	Male	Arts	42100
+25	Male	Business	50100
+20	Male	Computer Science	67900
+22	Female	Law	38600
+27	Male	Business	25700
+21	Male	Business	71500
+21	Other	Mathematics	43100
+21	Male	Business	49000
+27	Female	Computer Science	65100
+25	Female	Mathematics	67600
+23	Male	Medicine	36300
+20	Male	Business	54000
+27	Male	Medicine	70900
+22	Female	Law	50600
+23	Female	Arts	66600
+22	Female	Mathematics	52500
+23	Female	Law	66500
+25	Female	Mathematics	70000
+24	Male	Arts	76000
+22	Male	Arts	57100
+27	Female	Mathematics	44100
+23	Male	Law	54100
+21	Male	Engineering	55000
+29	Female	Computer Science	50200
+26	Male	Medicine	61000
+21	Female	Engineering	58500
+18	Female	Medicine	54300
+24	Male	Mathematics	83000
+24	Female	Computer Science	37800
+21	Male	Mathematics	55500
+20	Male	Business	50100
+25	Male	Mathematics	25000
+22	Male	Law	40600
+27	Female	Engineering	28800
+24	Male	Mathematics	62500
+21	Male	Computer Science	31100
+21	Male	Law	29400
+25	Female	Engineering	46900
+25	Female	Mathematics	44800
+19	Male	Arts	44000
+19	Male	Mathematics	33700
+20	Male	Engineering	63400
+29	Male	Business	47400
+29	Female	Business	64600
+20	Female	Medicine	35200
+18	Male	Engineering	40400
+20	Male	Mathematics	36900
+23	Male	Arts	49600
+25	Female	Mathematics	39900
+29	Male	Business	66200
+27	Other	Medicine	25000
+23	Female	Mathematics	75300
+22	Male	Arts	45500
+21	Female	Arts	38400
+20	Female	Mathematics	77600
+21	Female	Arts	48500
+24	Male	Computer Science	45500
+18	Male	Business	40700
+24	Female	Computer Science	46000
+18	Female	Computer Science	57300
+19	Female	Business	57800
+21	Female	Engineering	32100
+18	Female	Law	32500
+28	Female	Medicine	65400
+29	Male	Mathematics	42100
+28	Female	Law	49100
+28	Female	Law	51800
+26	Female	Law	72000
+29	Female	Law	69800
+23	Male	Business	55100
+18	Female	Law	39900
+18	Female	Medicine	84700
+23	Male	Mathematics	60500
+21	Male	Engineering	70500
+21	Male	Business	46400
+28	Male	Law	32700
+23	Male	Arts	57600
+29	Male	Mathematics	50300
+28	Female	Business	74800
+24	Female	Engineering	48500
+26	Female	Law	43300
+27	Female	Computer Science	69300
+22	Male	Business	43700
+26	Male	Mathematics	45900
+21	Female	Mathematics	26800
+27	Male	Arts	66900
+19	Other	Mathematics	47300
+20	Female	Business	32300
+28	Female	Computer Science	67400
+18	Other	Business	46000
+23	Male	Arts	77300
+23	Male	Engineering	69200
+18	Female	Arts	31900
+28	Male	Engineering	60800
+20	Female	Arts	65800
+22	Male	Medicine	25000
+20	Female	Business	46100
+27	Female	Mathematics	41900
+20	Female	Business	66300
+27	Male	Computer Science	36500
+20	Male	Medicine	54000
+22	Female	Computer Science	79000
+22	Male	Business	25000
+21	Female	Computer Science	51400
+18	Female	Engineering	51900
+22	Female	Medicine	25000
+27	Female	Mathematics	25000
+22	Male	Arts	63000
+21	Female	Engineering	49200
+23	Female	Law	52900
+27	Male	Arts	47800
+21	Other	Computer Science	68700
+24	Male	Business	86000
+24	Male	Engineering	66700
+19	Male	Medicine	25000
+20	Female	Arts	49500
+18	Male	Law	71200
+25	Female	Engineering	43600
+26	Female	Mathematics	71300
+21	Male	Mathematics	44900
+23	Male	Business	31200
+26	Female	Medicine	60800
+23	Male	Medicine	56900
+29	Female	Arts	41000
+29	Male	Engineering	69500
+29	Female	Engineering	25000
+26	Female	Medicine	65800
+21	Male	Mathematics	41800
+25	Male	Computer Science	76400
+26	Male	Medicine	62300
+21	Male	Business	44800
+22	Female	Engineering	35500
+25	Female	Mathematics	25700
+29	Male	Arts	48800
+27	Female	Engineering	50800
+23	Female	Mathematics	65800
+29	Male	Medicine	39200
+24	Male	Business	55500
+20	Female	Computer Science	44700
+24	Female	Mathematics	72500
+29	Female	Mathematics	48100
+25	Female	Engineering	39000
+27	Male	Medicine	32000
+23	Female	Law	43200
+27	Female	Medicine	46500
+26	Female	Medicine	47000
+23	Male	Business	56400
+29	Male	Medicine	45000
+26	Male	Mathematics	37500
+21	Female	Medicine	43700
+25	Male	Medicine	46700
+28	Male	Engineering	41500
+21	Male	Medicine	25800
+19	Male	Business	27200
+27	Female	Law	25000
+28	Female	Engineering	52500
+26	Female	Mathematics	56800
+22	Male	Law	37400
+21	Female	Medicine	57300
+19	Male	Computer Science	44200
+18	Male	Law	47800
+28	Male	Business	30400
+24	Male	Computer Science	68700
+23	Male	Business	73900
+19	Female	Mathematics	54900
+25	Female	Computer Science	38600
+28	Female	Medicine	51400
+21	Male	Computer Science	38400
+25	Male	Mathematics	29900
+24	Male	Law	60600
+22	Other	Computer Science	35100
+27	Female	Business	37200
+27	Female	Medicine	25000
+29	Male	Business	66000
+25	Female	Medicine	72600
+26	Male	Law	61000
+22	Female	Arts	62200
+27	Female	Engineering	29900
+22	Other	Law	46100
+19	Female	Mathematics	60900
+22	Male	Law	35400
+20	Female	Engineering	43900
+24	Female	Business	25500
+27	Male	Law	45500
+22	Male	Medicine	47300
+25	Male	Computer Science	57500
+18	Male	Law	25100
+20	Male	Engineering	25000
+20	Female	Law	68500
+26	Male	Business	66100
+22	Male	Business	40300
+29	Female	Business	72900
+26	Female	Medicine	52500
+26	Female	Mathematics	67100
+18	Male	Mathematics	45600
+19	Female	Law	54700
+22	Female	Business	44900
+21	Male	Arts	75100
+27	Male	Computer Science	47600
+26	Female	Mathematics	48700
+24	Female	Business	25800
+23	Other	Mathematics	48200
+24	Female	Medicine	76100
+18	Female	Computer Science	70300
+18	Female	Computer Science	47300
+25	Male	Engineering	48600
+19	Male	Business	31300
+29	Male	Business	55200
+27	Female	Law	54900
+28	Female	Medicine	57900
+26	Female	Arts	26200
+24	Male	Law	67400
+23	Female	Arts	46600
+18	Male	Engineering	68400
+18	Male	Mathematics	53100
+19	Female	Mathematics	71400
+23	Female	Arts	59700
+23	Other	Mathematics	37400
+19	Male	Medicine	62300
+18	Female	Mathematics	65300
+27	Male	Engineering	53200
+22	Male	Business	45800
+22	Female	Arts	63900
+19	Female	Medicine	67300
+23	Female	Medicine	30300
+26	Male	Business	52000
+19	Female	Mathematics	47000
+27	Male	Medicine	78400
+19	Female	Engineering	39300
+20	Male	Engineering	58300
+24	Male	Law	60400
+23	Female	Computer Science	50900
+29	Female	Business	70700
+25	Male	Mathematics	48600
+25	Male	Medicine	31700
+23	Female	Arts	72000
+29	Male	Law	43300
+28	Male	Engineering	51400
+27	Male	Business	47700
+20	Male	Mathematics	35800
+20	Female	Business	36200
+18	Female	Mathematics	26900
+24	Female	Engineering	57800
+22	Other	Computer Science	60800
+21	Male	Business	53700
+27	Male	Medicine	59100
+21	Male	Arts	48000
+21	Male	Arts	53000
+23	Male	Engineering	49600
+25	Female	Business	48900
+25	Female	Arts	33700
+22	Male	Business	69800
+23	Female	Engineering	45700
+21	Female	Computer Science	43100
+29	Female	Arts	41600
+28	Female	Medicine	44200
+26	Female	Law	44400
+25	Female	Engineering	52900
+27	Female	Law	25000
+29	Female	Computer Science	37100
+27	Male	Medicine	72300
+18	Male	Law	71300
+19	Female	Medicine	46100
+26	Male	Arts	87400
+25	Male	Business	60500
+20	Female	Engineering	72100
+25	Male	Medicine	51400
+29	Female	Arts	46200
+18	Female	Computer Science	64300
+27	Other	Mathematics	66800
+21	Female	Medicine	45900
+20	Male	Computer Science	56600
+23	Female	Engineering	25000
+24	Female	Arts	40200
+21	Other	Computer Science	71400
+24	Male	Business	42000
+26	Male	Law	49200
+28	Female	Computer Science	48100
+19	Male	Computer Science	33600
+28	Female	Arts	48700
+20	Male	Arts	46900
+22	Male	Medicine	36300
+20	Male	Law	47800
+28	Male	Computer Science	32300
+25	Female	Computer Science	49300
+29	Female	Arts	48900
+27	Male	Mathematics	79600
+25	Female	Business	38000
+25	Male	Mathematics	62200
+29	Female	Arts	28300
+29	Male	Business	86900
+26	Female	Law	55900
+21	Female	Mathematics	53600
+22	Female	Arts	59200
+22	Female	Law	51000
+25	Female	Engineering	43800
+24	Other	Computer Science	35900
+26	Female	Law	53000
+25	Female	Business	68800
+19	Female	Engineering	25000
+27	Male	Business	83200
+29	Female	Medicine	37100
+21	Male	Medicine	54600
+23	Female	Computer Science	39100
+29	Female	Engineering	49100
+19	Female	Engineering	54900
+24	Male	Medicine	47300
+20	Male	Computer Science	52700
+20	Female	Law	51700
+28	Female	Medicine	58400
+19	Male	Engineering	57400
+28	Male	Business	25000
+25	Female	Mathematics	45000
+23	Female	Engineering	70100
+18	Male	Computer Science	62700
+29	Male	Engineering	33300
+18	Male	Arts	44400
+24	Other	Engineering	46600
+25	Male	Arts	46300
+22	Male	Medicine	47600
+29	Male	Law	42300
+28	Male	Arts	35500
+22	Female	Engineering	81900
+21	Male	Law	52700
+23	Male	Mathematics	46800
+23	Male	Law	61300
+20	Male	Engineering	26600
+26	Male	Engineering	58200
+29	Female	Mathematics	28000
+28	Female	Computer Science	55400
+24	Female	Medicine	37100
+18	Female	Arts	60500
+24	Female	Business	89900
+22	Male	Arts	52300
+22	Female	Engineering	27600
+19	Female	Business	40200
+21	Female	Business	55100
+29	Female	Arts	69000
+23	Male	Mathematics	33300
+27	Female	Arts	78100
+28	Female	Arts	59500
+24	Other	Arts	49800
+28	Male	Mathematics	63000
+22	Male	Mathematics	31000
+26	Male	Medicine	36300
+20	Female	Computer Science	29400
+18	Male	Computer Science	83600
+21	Male	Arts	50200
+26	Other	Computer Science	52700
+21	Male	Arts	67000
+19	Female	Arts	28600
+27	Male	Arts	37800
+22	Female	Law	55300
+20	Female	Medicine	75300
+29	Female	Engineering	63300
+26	Female	Computer Science	55300
+21	Male	Computer Science	53900
+23	Male	Medicine	66900
+19	Male	Medicine	35500
+23	Female	Arts	54500
+20	Female	Arts	57000
+29	Male	Law	46000
+29	Female	Law	48000
+26	Male	Engineering	25800
+28	Female	Computer Science	41700
+19	Other	Medicine	25000
+29	Male	Engineering	60100
+29	Female	Computer Science	51900
+26	Male	Engineering	48000
+22	Female	Engineering	53900
+25	Female	Mathematics	54500
+19	Male	Arts	44800
+23	Male	Engineering	29100
+20	Male	Arts	57500
+29	Female	Computer Science	35100
+29	Female	Law	55300
+27	Male	Computer Science	69700
+22	Female	Arts	76600
+29	Female	Law	55700
+25	Male	Mathematics	45400
+27	Male	Business	42900
+18	Female	Law	55100
+22	Female	Engineering	25000
+20	Male	Computer Science	37900
+21	Male	Mathematics	38600
+19	Male	Engineering	56200
+26	Female	Mathematics	49200
+20	Male	Law	52300
+19	Male	Business	48100
+27	Female	Engineering	46700
+28	Female	Business	54600
+26	Male	Medicine	60500
+24	Male	Business	66000
+23	Female	Computer Science	49600
+18	Male	Law	65800
+22	Male	Arts	73900
+29	Female	Arts	40900
+28	Male	Engineering	61900
+28	Female	Law	41500
+20	Female	Mathematics	68400
+18	Male	Medicine	52800
+21	Male	Engineering	44100
+19	Female	Business	36400
+19	Female	Arts	41400
+20	Female	Business	47700
+25	Female	Arts	66900
+25	Male	Arts	45500
+29	Female	Arts	43200
+24	Male	Law	76600
+23	Male	Mathematics	44000
+26	Male	Mathematics	32600
+21	Male	Mathematics	29500
+29	Female	Computer Science	38900
+18	Male	Law	50000
+25	Male	Business	50400
+24	Male	Mathematics	40700
+24	Female	Law	26800
+20	Female	Mathematics	36700
+21	Male	Engineering	30200
+27	Male	Medicine	25000
+26	Male	Engineering	25000
+23	Female	Law	54400
+22	Female	Business	45400
+20	Female	Medicine	58800
+26	Female	Engineering	39900
+22	Male	Medicine	40900
+22	Female	Business	37100
+21	Female	Arts	36600
+21	Male	Business	38600
+29	Male	Mathematics	76000
+18	Female	Computer Science	48300
+24	Female	Medicine	38100
+26	Male	Business	64400
+20	Female	Arts	49600
+29	Female	Arts	66200
+19	Male	Business	57500
+20	Male	Engineering	52100
+18	Male	Business	54500
+23	Female	Arts	55700
+28	Male	Business	30900
+28	Male	Computer Science	51800
+24	Female	Engineering	54200
+28	Female	Business	56100
+28	Male	Arts	42700
+19	Male	Business	68100
+25	Female	Mathematics	53400
+23	Female	Business	43800
+21	Female	Medicine	56100
+22	Male	Business	65600
+25	Female	Computer Science	39100
+20	Female	Arts	37100
+20	Female	Law	62300
+28	Female	Medicine	64500
+21	Male	Law	48400
+18	Male	Business	47200
+26	Female	Mathematics	63300
+25	Female	Engineering	38000
+25	Female	Computer Science	25000
+27	Male	Computer Science	51700
+23	Female	Mathematics	51700
+24	Female	Computer Science	64000
+23	Male	Mathematics	62000
+26	Male	Medicine	75000
+20	Female	Mathematics	54000
+20	Female	Mathematics	83200
+20	Female	Business	67600
+27	Female	Computer Science	51700
+20	Male	Business	66000
+26	Male	Engineering	36600
+29	Female	Mathematics	45800
+21	Female	Business	47800
+24	Female	Law	47200
+26	Female	Business	62800
+28	Male	Business	66500
+29	Female	Mathematics	61800
+24	Male	Arts	40600
+26	Male	Law	60200
+29	Male	Medicine	68200
+20	Male	Mathematics	60900
+21	Male	Business	28800
+25	Male	Computer Science	35500
+23	Male	Mathematics	58400
+22	Male	Arts	67500
+21	Female	Business	35300
+25	Male	Arts	49900
+18	Male	Medicine	50700
+26	Female	Mathematics	34900
+18	Female	Arts	54200
+25	Female	Computer Science	55900
+21	Male	Business	52600
+26	Female	Computer Science	65000
+28	Male	Mathematics	49400
+22	Male	Mathematics	60600
+20	Male	Engineering	56400
+26	Female	Arts	59900
+28	Male	Arts	43000
+26	Male	Arts	58100
+21	Male	Law	67500
+28	Female	Mathematics	64100
+21	Female	Mathematics	68500
+29	Male	Medicine	52900
+25	Female	Law	74000
+19	Female	Computer Science	45700
+26	Female	Mathematics	46200
+23	Male	Engineering	76300
+26	Female	Medicine	57000
+25	Male	Medicine	63700
+24	Female	Business	25000
+18	Male	Mathematics	55500
+29	Male	Engineering	54200
+20	Male	Mathematics	58700
+28	Female	Arts	58400
+19	Male	Law	45000
+22	Female	Arts	86800
+22	Male	Mathematics	38200
+22	Female	Business	46500
+21	Female	Law	64100
+22	Female	Arts	34900
+20	Female	Computer Science	49300
+29	Female	Arts	61800
+18	Male	Mathematics	43200
+22	Female	Law	40000
+26	Male	Computer Science	56700
+26	Female	Business	52700
+21	Female	Business	40900
+20	Male	Computer Science	52400
+18	Male	Law	50000
+19	Male	Law	65000
+25	Female	Arts	35800
+18	Female	Business	37700
+25	Female	Business	46500
+24	Female	Computer Science	46200
+25	Female	Business	64400
+29	Male	Mathematics	52500
+23	Male	Arts	60000
+29	Female	Business	71700
+26	Female	Computer Science	38000
+20	Female	Arts	71800
+27	Male	Engineering	50500
+21	Male	Computer Science	25000
+23	Male	Engineering	53600
+25	Male	Business	29300
+22	Male	Arts	30300
+20	Female	Business	35100
+23	Male	Arts	49000
+21	Female	Medicine	31300
+26	Male	Business	69100
+20	Female	Business	66800
+21	Male	Business	89100
+24	Male	Law	48800
+24	Male	Computer Science	42800
+29	Other	Law	53300
+29	Female	Arts	63000
+21	Male	Arts	69400
+23	Male	Arts	41000
+29	Female	Computer Science	65100
+20	Male	Arts	65100
+23	Male	Law	94400
+29	Female	Mathematics	71300
+19	Female	Law	78200
+25	Male	Mathematics	79900
+19	Male	Business	40100
+28	Female	Engineering	38600
+24	Male	Mathematics	65000
+26	Male	Medicine	44700
+18	Female	Arts	61800
+25	Female	Computer Science	49000
+24	Male	Mathematics	56200
+23	Other	Computer Science	55000
+23	Female	Arts	60900
+23	Male	Engineering	32300
+26	Other	Law	30800
+19	Male	Arts	48600
+18	Male	Computer Science	51800
+29	Female	Medicine	75200
+23	Male	Engineering	56500
+27	Male	Arts	53700
+28	Male	Mathematics	46300
+25	Male	Medicine	57800
+20	Female	Arts	46600
+29	Female	Engineering	32300
+27	Other	Computer Science	66100
+18	Male	Law	42600
+26	Male	Mathematics	43600
+18	Male	Law	28700
+20	Male	Engineering	55700
+25	Male	Business	75700
+20	Female	Law	25000
+21	Female	Arts	25900
+25	Other	Medicine	56100
+18	Male	Medicine	54000
+23	Female	Mathematics	42900
+18	Male	Law	41700
+18	Male	Engineering	54400
+25	Female	Mathematics	25000
+28	Female	Engineering	30400
+21	Male	Engineering	34900
+29	Male	Medicine	44100
+18	Male	Computer Science	44500
+27	Female	Medicine	25000
+24	Male	Computer Science	30500
+22	Other	Mathematics	58600
+22	Male	Mathematics	57600
+18	Male	Mathematics	63000
+27	Female	Engineering	57900
+28	Female	Business	48400
+23	Male	Medicine	35400
+26	Female	Engineering	35200
+26	Female	Medicine	37300
+25	Female	Engineering	62300
+22	Female	Medicine	57900
+18	Female	Arts	35500
+26	Female	Medicine	55700
+18	Female	Arts	59400
+25	Male	Computer Science	57700
+22	Male	Medicine	63400
+20	Male	Computer Science	50800
+28	Male	Business	46000
+24	Male	Law	51100
+24	Other	Law	65200
+26	Male	Arts	61400
+24	Male	Medicine	51400
+28	Female	Law	67200
+20	Male	Computer Science	77900
+28	Male	Law	88400
+18	Male	Law	88200
+25	Male	Engineering	98200
+29	Male	Law	70200
+20	Female	Computer Science	25000
+29	Female	Law	53200
+25	Male	Medicine	28000
+25	Male	Law	75100
+22	Male	Business	45300
+29	Female	Law	56700
+18	Male	Arts	47800
+27	Male	Engineering	77000
+24	Female	Mathematics	32200
+29	Male	Computer Science	60600
+27	Male	Law	34400
+22	Male	Law	25000
+25	Female	Medicine	52800
+26	Female	Mathematics	31600
+28	Female	Medicine	27600
+24	Female	Arts	26500
+24	Female	Mathematics	44200
+18	Other	Engineering	64000
+21	Other	Computer Science	28100
+19	Male	Computer Science	66200
+19	Female	Computer Science	41900
+19	Male	Arts	34000
+21	Male	Arts	68200
+18	Female	Law	64500
+21	Male	Engineering	62200
+19	Female	Computer Science	53500
+22	Male	Computer Science	33900
+20	Female	Law	68600
+29	Female	Engineering	50400
+25	Female	Mathematics	52000
+21	Male	Engineering	55900
+18	Male	Engineering	64900
+18	Female	Medicine	25600
+29	Male	Engineering	49400
+27	Other	Business	43200
+20	Female	Arts	72300
+26	Male	Engineering	76000
+24	Male	Medicine	54400
+19	Male	Mathematics	30300
+26	Female	Business	41100
+27	Male	Medicine	25000
+19	Male	Medicine	65200
+20	Male	Law	41400
+28	Female	Medicine	68200
+27	Male	Medicine	41600
+19	Male	Computer Science	47000
+20	Female	Arts	44300
+23	Female	Law	26100
+26	Female	Law	25600
+26	Male	Computer Science	79600
+24	Male	Business	38600
+29	Female	Computer Science	61200
+20	Male	Law	89500
+21	Female	Business	43800
+23	Female	Law	56900
+28	Male	Engineering	54300
+22	Female	Business	55000
+19	Female	Law	57300
+23	Male	Computer Science	32000
+20	Female	Law	28300
+25	Male	Computer Science	49500
+19	Male	Business	71000
+18	Male	Computer Science	63800
+26	Female	Business	28800
+29	Female	Medicine	58600
+20	Female	Arts	53800
+28	Male	Mathematics	52100
+18	Female	Business	51800
+24	Male	Mathematics	54600
+27	Female	Mathematics	49500
+22	Male	Medicine	41000
+22	Male	Medicine	46600
+18	Male	Medicine	25000
+26	Female	Mathematics	57800
+24	Male	Medicine	57500
+25	Female	Business	74900
+26	Male	Mathematics	59200
+23	Male	Mathematics	47100
+29	Male	Computer Science	57300
+22	Female	Medicine	45200
+23	Female	Engineering	39900
+28	Male	Medicine	25000
+19	Male	Computer Science	55800
+21	Male	Computer Science	57500
+20	Female	Arts	69400
+24	Male	Arts	71700
+26	Female	Mathematics	55200
+22	Female	Medicine	31300
+23	Male	Medicine	32000
+27	Female	Law	53300
+29	Female	Mathematics	63500
+29	Female	Law	64400
+19	Male	Arts	43500
+20	Male	Medicine	25000
+20	Male	Law	31900
+29	Male	Engineering	25000
+29	Male	Business	55000
+26	Male	Arts	46100
+24	Female	Arts	45500
+25	Male	Computer Science	57200
+28	Male	Medicine	44600
+27	Male	Arts	78900
+28	Female	Arts	47100
+26	Female	Law	25000
+23	Female	Engineering	25000
+21	Male	Mathematics	58000
+29	Other	Medicine	59500
+18	Male	Business	59200
+25	Male	Engineering	30300
+24	Male	Business	36700
+19	Male	Computer Science	75100
+25	Male	Arts	47200
+29	Female	Law	40700
+22	Female	Engineering	70800
+24	Male	Business	34600
+21	Female	Medicine	43800
+22	Male	Computer Science	68600
+25	Male	Mathematics	69900
+18	Female	Computer Science	70300
+18	Female	Arts	61100
+21	Male	Arts	80200
+20	Male	Business	64100
+27	Female	Business	55000
+29	Female	Computer Science	50200
+19	Female	Business	45500
+29	Male	Arts	31400
+20	Male	Computer Science	25000
+28	Male	Computer Science	64300
+28	Male	Mathematics	48500
+28	Female	Medicine	37100
+18	Male	Medicine	80500
+18	Male	Business	67900
+23	Female	Business	47600
+22	Female	Arts	58500
+25	Male	Arts	49600
+19	Female	Medicine	44500
+21	Female	Computer Science	68700
+25	Female	Engineering	54000
+29	Male	Law	31300
+23	Female	Law	55400
+18	Female	Mathematics	59500
+21	Male	Engineering	75500
+18	Male	Mathematics	54400
+19	Female	Business	50900
+22	Male	Law	57700
+25	Female	Mathematics	34200
+25	Male	Law	90900
+28	Male	Engineering	79500
+20	Male	Mathematics	64500
+28	Female	Engineering	54800
+21	Male	Medicine	29300
+27	Female	Computer Science	50400
+28	Female	Arts	57500
+23	Female	Medicine	34600
+28	Female	Law	41800
+28	Female	Arts	42700
+27	Male	Medicine	40600
+20	Female	Medicine	75300
+19	Female	Engineering	47500
+23	Male	Arts	70300
+28	Male	Medicine	42700
+22	Female	Engineering	44800
+27	Male	Business	50700
+22	Female	Arts	53100
+27	Male	Mathematics	34200
+22	Male	Medicine	55300
+27	Female	Law	33300
+29	Male	Business	77800
+22	Male	Engineering	42000
+20	Female	Medicine	63000
+24	Male	Law	41600
+23	Female	Engineering	69000
+21	Female	Engineering	42900
+19	Female	Mathematics	49200
+29	Male	Law	46400
+26	Male	Engineering	45600
+18	Female	Arts	28000
+28	Female	Mathematics	39100
+21	Female	Business	55300
+18	Female	Mathematics	58200
+23	Male	Business	32900
+21	Male	Computer Science	40200
+22	Male	Mathematics	48800
+22	Male	Mathematics	51200
+26	Male	Medicine	55800
+18	Female	Mathematics	65600
+19	Male	Engineering	55000
+23	Male	Medicine	34900
+22	Male	Business	60400
+28	Female	Business	64700
+24	Female	Engineering	26300
+20	Female	Arts	57000
+20	Female	Law	69700
+27	Male	Engineering	40300
+19	Female	Engineering	60500
+20	Male	Computer Science	39500
+27	Male	Law	45500
+18	Female	Mathematics	36800
+22	Female	Arts	59300
+29	Male	Medicine	61500
+22	Male	Law	56300
+29	Female	Arts	58900
+28	Male	Engineering	60900
+24	Male	Engineering	70400
+21	Male	Engineering	41400
+20	Male	Engineering	25000
+18	Female	Engineering	43900
+29	Male	Law	44000
+25	Male	Mathematics	62300
+20	Female	Law	25000
+19	Female	Mathematics	54000
+28	Male	Law	70200
+21	Male	Arts	50200
+20	Male	Engineering	58500
+18	Female	Business	39400
+20	Female	Law	60800
+29	Female	Business	48700
+19	Female	Computer Science	41500
+25	Female	Medicine	50900
+23	Female	Law	62600
+26	Female	Business	48400
+25	Male	Computer Science	47500
+27	Other	Arts	49300
+20	Male	Medicine	54100
+22	Male	Mathematics	53100
+24	Female	Engineering	52900
+22	Male	Law	31700
+25	Female	Law	47800
+29	Female	Engineering	68900
+22	Male	Mathematics	58700
+18	Female	Arts	68100
+22	Male	Medicine	56200
+21	Male	Law	53300
+23	Female	Business	71600
+20	Female	Mathematics	43400
+28	Female	Medicine	42500
+22	Male	Computer Science	76000
+19	Female	Mathematics	63600
+28	Male	Law	45800
+23	Female	Arts	40500
+29	Male	Mathematics	34500
+23	Female	Business	45200
+22	Male	Medicine	63800
+23	Male	Mathematics	25000
+28	Female	Medicine	66400
+24	Female	Business	60600
+29	Female	Computer Science	34500
+22	Female	Computer Science	50900
+18	Female	Mathematics	42400
+25	Female	Medicine	36400
+21	Male	Engineering	54400
+26	Female	Business	58100
+27	Male	Law	61500
+29	Female	Mathematics	25000
+23	Female	Computer Science	43400
+18	Female	Law	59300
+20	Female	Computer Science	64600
+20	Female	Computer Science	53800
+27	Female	Arts	66200
+29	Male	Mathematics	52900
+29	Female	Law	57900
+21	Male	Engineering	37500
+23	Female	Computer Science	60900
+24	Male	Engineering	30400
+27	Male	Medicine	34600
+21	Male	Medicine	38500
+23	Male	Arts	75200
+28	Female	Engineering	44600
+18	Male	Business	56700
+25	Female	Arts	58400
+24	Male	Computer Science	58000
+28	Female	Medicine	34800
+28	Female	Mathematics	55500
+26	Female	Medicine	35500
+20	Female	Business	25300
+19	Male	Arts	75500
+18	Female	Engineering	46300
+20	Male	Mathematics	47000
+22	Female	Medicine	66000
+28	Female	Computer Science	62600
+19	Male	Business	41400
+29	Female	Business	55400
+20	Female	Law	58800
+21	Male	Business	31500
+24	Male	Computer Science	40000
+20	Male	Business	46400
+26	Female	Engineering	51700
+25	Female	Law	71000
+21	Male	Engineering	41200
+18	Male	Mathematics	73500
+18	Female	Arts	58600
+18	Female	Arts	27300
+18	Male	Mathematics	56300
+25	Male	Mathematics	73300
+20	Female	Engineering	48600
+23	Male	Computer Science	40500
+20	Male	Law	43000
+28	Female	Arts	58900
+22	Female	Business	30800
+24	Male	Mathematics	78000
+19	Male	Engineering	68200
+23	Male	Medicine	62000
+23	Male	Computer Science	34300
+28	Female	Computer Science	73700
+20	Male	Engineering	70800
+23	Female	Medicine	73700
+27	Female	Computer Science	56800
+27	Male	Law	52500
+22	Male	Arts	56400
+29	Female	Law	59600
+19	Female	Medicine	71700
+26	Female	Law	32000
+25	Male	Business	55900
+20	Female	Mathematics	60100
+25	Female	Mathematics	68100
+26	Female	Arts	48000
+20	Male	Medicine	53800
+20	Female	Engineering	50800
+19	Female	Computer Science	57000
+25	Male	Arts	44100
+27	Female	Engineering	62300
+18	Male	Medicine	58500
+25	Male	Business	30800
+24	Male	Computer Science	35000
+24	Female	Computer Science	49800
+20	Male	Arts	98900
+18	Male	Engineering	48300
+21	Female	Mathematics	37200
+26	Male	Medicine	41900
+22	Female	Medicine	60100
+18	Female	Engineering	76500
+22	Female	Computer Science	42800
+25	Female	Engineering	55300
+25	Female	Law	44300
+22	Male	Mathematics	61900
+29	Female	Medicine	44300
+26	Male	Engineering	64000
+18	Female	Computer Science	25000
+21	Male	Arts	61700
+20	Female	Law	48200
+19	Female	Computer Science	59700
+25	Female	Business	50200
+24	Male	Business	32500
+26	Male	Engineering	53200
+19	Female	Mathematics	62300
+21	Female	Mathematics	54000
+23	Male	Computer Science	28400
+28	Other	Computer Science	53300
+20	Female	Medicine	57800
+25	Male	Arts	43900
+20	Female	Law	25000
+29	Female	Computer Science	42700
+19	Male	Law	31100
+20	Male	Engineering	48500
+28	Female	Medicine	31200
+23	Female	Mathematics	30600
+19	Male	Law	61600
+25	Female	Law	52400
+18	Female	Law	57400
+24	Female	Law	41400
+19	Male	Law	42800
+27	Female	Mathematics	40400
+29	Male	Medicine	42400
+23	Male	Engineering	43100
+29	Male	Law	35100
+19	Female	Law	39300
+19	Female	Engineering	52900
+27	Male	Computer Science	35000
+25	Female	Computer Science	54900
+29	Male	Mathematics	26500
+19	Male	Medicine	54600
+24	Other	Medicine	48900
+20	Female	Arts	54800
+25	Male	Medicine	54800
+24	Female	Mathematics	34700
+25	Male	Engineering	50800
+24	Male	Law	33100
+28	Female	Engineering	43800
+23	Female	Mathematics	64100
+24	Male	Arts	35300
+22	Female	Business	49200
+24	Female	Mathematics	37900
+18	Male	Mathematics	54600
+18	Female	Business	63800
+26	Female	Engineering	43000
+22	Female	Business	53200
+22	Female	Mathematics	46700
+20	Female	Mathematics	35400
+22	Male	Business	55300
+20	Female	Mathematics	57300
+26	Female	Arts	35200
+26	Male	Mathematics	63000
+23	Female	Mathematics	69100
+18	Female	Law	36600
+24	Female	Medicine	70700
+24	Male	Medicine	50100
+27	Male	Business	49000
+27	Female	Computer Science	74900
+21	Male	Arts	62600
+25	Female	Law	40600
+23	Male	Law	42400
+21	Male	Business	54900
+21	Male	Computer Science	54700
+19	Male	Computer Science	49400
+19	Female	Law	39400
+29	Male	Arts	41800
+21	Male	Medicine	49600
+22	Male	Law	26200
+25	Female	Mathematics	57500
+23	Male	Law	53900
+21	Female	Mathematics	36000
+28	Female	Engineering	57300
+24	Female	Computer Science	25000
+25	Female	Engineering	55500
+19	Female	Engineering	63500
+29	Female	Arts	55900
+24	Male	Law	59000
+19	Male	Medicine	60000
+19	Male	Mathematics	55900
+25	Female	Mathematics	49200
+19	Other	Arts	45200
+28	Female	Computer Science	67200
+26	Male	Medicine	59100
+29	Female	Law	67800
+18	Male	Business	64900
+26	Male	Medicine	32400
+18	Male	Mathematics	40000
+27	Male	Arts	25000
+27	Female	Arts	26600
+19	Male	Engineering	25000
+23	Male	Law	25000
+23	Female	Business	46400
+18	Female	Law	67600
+24	Female	Medicine	55300
+25	Male	Business	60400
+19	Female	Law	50800
+25	Female	Engineering	52200
+26	Male	Business	61700
+23	Female	Business	47600
+22	Male	Medicine	51900
+29	Male	Business	43900
+26	Female	Engineering	31700
+29	Female	Computer Science	48100
+28	Male	Computer Science	32400
+26	Female	Arts	63200
+18	Female	Computer Science	57300
+28	Female	Medicine	72300
+20	Male	Arts	38200
+26	Female	Computer Science	29400
+28	Male	Computer Science	27100
+19	Female	Arts	73600
+29	Male	Medicine	44000
+21	Male	Arts	27500
+21	Female	Mathematics	57100
+19	Male	Mathematics	45000
+20	Male	Medicine	35800
+20	Male	Medicine	72300
+18	Female	Law	47900
+23	Male	Engineering	58500
+25	Female	Computer Science	56500
+29	Male	Law	90700
+20	Male	Computer Science	47000
+22	Male	Law	35000
+18	Female	Business	39800
+27	Male	Mathematics	64800
+24	Male	Arts	53800
+27	Other	Law	42900
+18	Female	Mathematics	55100
+29	Male	Engineering	69900
+28	Male	Computer Science	74900
+26	Female	Business	55500
+25	Male	Engineering	67000
+24	Male	Medicine	28700
+27	Female	Computer Science	59300
+24	Female	Mathematics	47300
+22	Female	Law	32800
+22	Male	Arts	36000
+28	Male	Engineering	37800
+22	Female	Mathematics	54400
+18	Male	Business	33400
+25	Female	Arts	60600
+29	Female	Medicine	64500
+28	Male	Arts	48200
+18	Female	Mathematics	46900
+21	Female	Mathematics	52300
+26	Female	Business	42600
+26	Male	Medicine	71900
+22	Male	Business	25000
+21	Female	Mathematics	44200
+20	Male	Computer Science	26500
+20	Other	Business	58600
+29	Male	Arts	53200
+22	Female	Mathematics	61300
+27	Male	Computer Science	52400
+18	Female	Computer Science	55900
+22	Male	Engineering	36900
+23	Male	Arts	52200
+24	Male	Arts	38300
+29	Female	Medicine	59200
+26	Male	Business	35800
+20	Female	Law	42300
+19	Female	Business	48700
+20	Male	Arts	73000
+29	Female	Business	50500
+26	Male	Arts	80300
+29	Other	Mathematics	70700
+24	Female	Computer Science	45400
+26	Male	Business	56100
+19	Male	Mathematics	58300
+22	Male	Business	25000
+21	Other	Arts	25000
+19	Male	Mathematics	56700
+26	Female	Arts	57700
+26	Male	Medicine	52300
+23	Female	Business	33300
+28	Male	Engineering	86200
+23	Female	Arts	58500
+25	Female	Engineering	65300
+23	Female	Computer Science	64000
+18	Male	Computer Science	52200
+21	Male	Engineering	51300
+24	Male	Law	63600
+19	Female	Computer Science	42200
+26	Male	Engineering	64600
+25	Female	Medicine	52600
+25	Male	Medicine	58900
+24	Female	Computer Science	52700
+21	Female	Mathematics	36700
+19	Female	Engineering	47500
+20	Male	Engineering	68300
+29	Male	Engineering	59700
+23	Male	Law	66600
+29	Male	Computer Science	64100
+29	Female	Law	41500
+22	Female	Engineering	26600
+29	Female	Arts	62700
+25	Male	Engineering	47500
+23	Female	Arts	60400
+23	Female	Medicine	71000
+18	Female	Arts	44700
+21	Male	Medicine	38600
+22	Male	Computer Science	34700
+29	Male	Mathematics	49700
+28	Female	Mathematics	28800
+20	Female	Law	55300
+26	Male	Law	56000
+18	Male	Medicine	55900
+23	Female	Medicine	25000
+23	Female	Engineering	67900
+27	Male	Business	51900
+22	Female	Medicine	43200
+29	Other	Arts	59700
+22	Female	Computer Science	59500
+27	Male	Law	32800
+22	Female	Arts	49300
+23	Female	Law	41000
+25	Male	Computer Science	43700
+19	Female	Arts	57800
+23	Female	Law	36900
+18	Female	Medicine	58300
+21	Male	Business	36100
+27	Female	Medicine	68100
+20	Female	Mathematics	40200
+26	Male	Law	84400
+20	Female	Engineering	62200
+23	Female	Arts	47100
+18	Female	Business	35700
+29	Male	Arts	57800
+23	Female	Engineering	65200
+21	Male	Engineering	59300
+25	Male	Engineering	41300
+28	Female	Law	71400
+26	Male	Medicine	54400
+21	Female	Law	40200
+27	Male	Medicine	83200
+29	Male	Business	59800
+27	Male	Engineering	56100
+23	Other	Mathematics	42700
+18	Female	Medicine	49500
+21	Female	Computer Science	37800
+24	Male	Mathematics	52800
+29	Male	Computer Science	58200
+18	Other	Medicine	25000
+25	Male	Mathematics	30700
+29	Male	Mathematics	36300
+27	Female	Business	27400
+29	Male	Arts	37600
+28	Female	Law	72100
+23	Female	Engineering	67100
+22	Male	Medicine	40700
+27	Male	Business	58300
+28	Male	Mathematics	32700
+26	Female	Law	79300
+19	Female	Arts	47000
+22	Male	Business	25000
+23	Male	Arts	83500
+24	Female	Computer Science	45500
+22	Female	Law	80500
+26	Male	Law	63800
+18	Male	Arts	54400
+24	Male	Computer Science	25000
+27	Female	Engineering	51600
+24	Other	Medicine	26600
+21	Male	Mathematics	45000
+26	Female	Computer Science	52400
+29	Male	Business	69900
+28	Male	Arts	41000
+22	Male	Law	82300
+21	Female	Business	27000
+24	Female	Law	37800
+21	Female	Computer Science	52700
+20	Male	Law	25000
+26	Male	Mathematics	32300
+28	Male	Law	57000
+25	Female	Mathematics	64000
+18	Male	Law	35400
+24	Female	Law	42100
+26	Male	Mathematics	57600
+25	Male	Mathematics	25000
+25	Male	Business	47300
+23	Male	Arts	46500
+28	Male	Medicine	76500
+21	Male	Business	58000
+25	Female	Engineering	50300
+20	Female	Arts	61500
+26	Male	Arts	53300
+19	Male	Mathematics	36000
+19	Male	Engineering	60800
+29	Male	Mathematics	62900
+29	Male	Mathematics	45200
+24	Female	Computer Science	53000
+29	Male	Engineering	79300
+27	Male	Computer Science	53100
+21	Male	Medicine	46900
+27	Male	Computer Science	34900
+25	Female	Mathematics	36500
+26	Male	Medicine	51400
+24	Male	Medicine	40600
+22	Female	Law	59000
+25	Male	Law	43700
+21	Female	Engineering	93000
+19	Female	Mathematics	53500
+28	Male	Medicine	26300
+29	Female	Mathematics	52800
+23	Male	Computer Science	44400
+26	Female	Business	60800
+18	Male	Law	50100
+28	Male	Arts	56200
+27	Female	Arts	90700
+29	Female	Computer Science	46800
+24	Other	Law	61000
+27	Female	Business	66600
+26	Male	Mathematics	54700
+27	Male	Medicine	25800
+26	Male	Law	61700
+27	Male	Computer Science	25000
+28	Male	Mathematics	75600
+20	Female	Medicine	30400
+28	Male	Law	79400
+22	Male	Engineering	51300
+25	Male	Business	63100
+25	Female	Arts	57700
+21	Female	Computer Science	64600
+29	Female	Arts	25000
+28	Male	Mathematics	40400
+28	Female	Medicine	56100
+18	Male	Medicine	50800
+18	Female	Engineering	44000
+21	Female	Medicine	52900
+23	Male	Medicine	46700
+25	Female	Mathematics	83100
+23	Female	Arts	70100
+29	Male	Arts	72300
+26	Female	Computer Science	77100
+26	Male	Computer Science	57400
+19	Male	Medicine	36000
+27	Male	Law	45800
+18	Male	Business	55300
+19	Female	Computer Science	52300
+22	Male	Medicine	30100
+21	Female	Law	55400
+21	Male	Law	33200
+26	Other	Arts	79100
+28	Female	Law	61700
+25	Female	Engineering	47100
+23	Male	Arts	51000
+18	Male	Arts	75900
+19	Male	Engineering	27600
+23	Female	Mathematics	42800
+28	Female	Mathematics	58000
+19	Male	Arts	25000
+27	Male	Computer Science	47900
+22	Female	Arts	43300
+22	Male	Engineering	87000
+23	Female	Medicine	48000
+23	Female	Medicine	34500
+23	Female	Medicine	36700
+19	Male	Mathematics	25000
+27	Male	Engineering	75300
+20	Female	Engineering	51600
+23	Female	Computer Science	47400
+25	Male	Engineering	64100
+29	Male	Law	58200
+28	Female	Medicine	50200
+29	Female	Engineering	35000
+18	Female	Business	41900
+18	Other	Mathematics	51900
+28	Male	Arts	60000
+19	Male	Computer Science	30000
+28	Female	Medicine	48700
+29	Female	Law	69400
+29	Male	Law	31400
+23	Male	Medicine	61200
+26	Female	Law	30500
+21	Male	Business	42000
+20	Male	Computer Science	25000
+29	Female	Mathematics	54500
+25	Female	Arts	38500
+28	Female	Computer Science	25000
+27	Male	Computer Science	52100
+26	Female	Mathematics	65900
+29	Female	Medicine	56100
+28	Female	Engineering	55400
+22	Female	Arts	61800
+26	Male	Computer Science	39200
+19	Male	Business	51600
+20	Male	Mathematics	83000
+24	Male	Medicine	52200
+24	Female	Engineering	37500
+23	Female	Engineering	55200
+23	Female	Medicine	44300
+19	Female	Computer Science	49400
+27	Male	Mathematics	61200
+23	Male	Law	41900
+21	Male	Medicine	25000
+29	Male	Law	47400
+20	Male	Engineering	57400
+28	Female	Engineering	76200
+19	Other	Business	66100
+18	Male	Business	45000
+28	Male	Engineering	57200
+28	Female	Business	46300
+22	Male	Business	63300
+19	Female	Business	47600
+19	Female	Engineering	61300
+24	Female	Computer Science	75000
+25	Male	Computer Science	88200
+27	Female	Mathematics	27600
+25	Male	Arts	25000
+21	Female	Business	35900
+18	Male	Computer Science	49100
+28	Male	Arts	42100
+24	Female	Medicine	68700
+18	Female	Business	38100
+28	Female	Computer Science	33300
+21	Female	Computer Science	70100
+25	Female	Law	58200
+19	Male	Computer Science	54500
+23	Female	Law	33300
+23	Female	Arts	66100
+29	Female	Law	46600
+26	Female	Medicine	52000
+22	Male	Mathematics	55100
+27	Female	Business	70800
+21	Male	Computer Science	56700
+22	Male	Mathematics	39700
+29	Female	Engineering	49900
+29	Male	Business	60200
+27	Female	Engineering	75500
+28	Male	Mathematics	43900
+22	Male	Arts	42600
+25	Female	Computer Science	61400
+27	Female	Business	36700
+29	Female	Business	40500
+25	Female	Computer Science	50400
+19	Female	Mathematics	56600
+24	Male	Medicine	65300
+25	Male	Arts	52500
+28	Male	Computer Science	51300
+23	Female	Law	58600
+22	Female	Business	27000
+28	Male	Medicine	51200
+26	Female	Business	74200
+20	Female	Engineering	61700
+29	Male	Business	49600
+27	Male	Arts	61000
+21	Female	Computer Science	31500
+26	Female	Business	56500
+23	Female	Law	49500
+25	Male	Engineering	51500
+24	Other	Engineering	44500
+28	Male	Computer Science	71100
+19	Male	Engineering	42600
+20	Other	Mathematics	34000
+18	Male	Computer Science	27800
+26	Female	Arts	25000
+24	Male	Computer Science	53300
+18	Female	Medicine	38200
+20	Female	Engineering	30500
+21	Male	Engineering	46000
+21	Female	Law	60300
+22	Male	Business	48500
+20	Female	Medicine	52000
+20	Male	Mathematics	67600
+18	Male	Business	62400
+24	Male	Computer Science	51700
+28	Male	Arts	35200
+27	Female	Law	41800
+18	Male	Engineering	50400
+19	Male	Mathematics	60800
+21	Male	Mathematics	55100
+21	Male	Arts	40700
+22	Female	Computer Science	56000
+28	Other	Computer Science	75600
+19	Male	Medicine	54400
+21	Female	Business	59200
+18	Female	Engineering	44800
+19	Male	Mathematics	47100
+18	Female	Engineering	25000
+27	Female	Mathematics	52100
+27	Female	Arts	25000
+21	Female	Medicine	27200
+21	Male	Law	55000
+24	Female	Computer Science	35200
+27	Female	Medicine	25000
+28	Female	Engineering	51000
+28	Female	Law	26900
+26	Male	Business	65800
+26	Other	Arts	57100
+22	Female	Computer Science	77400
+27	Male	Computer Science	55900
+18	Male	Computer Science	78300
+18	Female	Business	35500
+23	Male	Engineering	40900
+19	Male	Engineering	54400
+25	Male	Medicine	48100
+26	Male	Law	52200
+21	Male	Mathematics	49600
+22	Male	Medicine	46900
+28	Male	Engineering	35900
+25	Female	Computer Science	39000
+20	Female	Business	36600
+22	Male	Engineering	35300
+20	Male	Business	51000
+29	Female	Arts	39200
+27	Male	Computer Science	42100
+20	Male	Arts	71000
+20	Male	Engineering	57200
+29	Female	Medicine	62100
+24	Female	Engineering	66800
+24	Female	Arts	74700
+24	Female	Business	49800
+27	Female	Law	54100
+25	Male	Law	42300
+22	Female	Engineering	37400
+22	Male	Mathematics	27600
+21	Female	Medicine	34800
+24	Female	Arts	42100
+27	Female	Engineering	53000
+21	Male	Arts	32900
+19	Male	Arts	35400
+21	Female	Computer Science	25000
+25	Female	Law	39700
+26	Female	Mathematics	50900
+20	Male	Law	50800
+24	Female	Business	45200
+29	Female	Mathematics	46300
+26	Female	Computer Science	50100
+28	Female	Law	68700
+21	Female	Arts	44600
+27	Female	Medicine	47900
+20	Female	Medicine	30600
+22	Other	Computer Science	57100
+18	Male	Medicine	49100
+20	Male	Arts	42000
+25	Female	Mathematics	32300
+28	Female	Engineering	55200
+25	Female	Arts	33600
+21	Female	Law	58000
+19	Male	Engineering	76900
+25	Female	Medicine	67300
+25	Female	Mathematics	50500
+27	Male	Business	59400
+21	Male	Business	39600
+20	Female	Arts	30300
+19	Male	Arts	52000
+26	Female	Medicine	41000
+18	Male	Business	29400
+24	Female	Business	25000
+22	Female	Arts	45500
+25	Female	Law	64900
+21	Male	Business	47600
+24	Female	Arts	46900
+22	Male	Computer Science	49200
+22	Male	Business	35700
+26	Other	Engineering	43400
+26	Female	Mathematics	68800
+26	Female	Medicine	72900
+29	Male	Mathematics	65700
+23	Male	Arts	61600
+23	Male	Business	73200
+22	Female	Business	33700
+26	Female	Law	90800
+27	Female	Arts	25000
+25	Female	Engineering	45100
+24	Male	Business	25000
+24	Male	Computer Science	61300
+23	Male	Medicine	32500
+22	Male	Arts	34100
+21	Male	Business	70600
+20	Female	Mathematics	46300
+20	Male	Law	59600
+23	Female	Law	43000
+21	Male	Medicine	35800
+29	Other	Arts	63400
+29	Female	Arts	52600
+23	Female	Arts	53200
+20	Male	Engineering	41100
+21	Female	Computer Science	47500
+26	Female	Law	41000
+22	Male	Arts	61400
+24	Male	Engineering	50500
+27	Male	Arts	59300
+19	Female	Arts	45200
+22	Female	Engineering	76900
+26	Female	Computer Science	49000
+28	Male	Medicine	55300
+20	Male	Law	58700
+26	Female	Business	37500
+28	Male	Mathematics	44800
+23	Female	Arts	58500
+21	Female	Computer Science	26900
+24	Male	Law	56400
+25	Female	Business	28900
+23	Male	Arts	27600
+22	Female	Mathematics	33500
+23	Male	Business	57000
+22	Female	Engineering	89700
+25	Male	Mathematics	30900
+18	Male	Law	51000
+28	Female	Computer Science	64800
+24	Male	Computer Science	57700
+27	Female	Law	39800
+27	Male	Medicine	60300
+28	Female	Medicine	42300
+19	Male	Business	47900
+26	Female	Engineering	36700
+18	Male	Business	66200
+28	Male	Arts	54400
+27	Male	Computer Science	45600
+23	Female	Business	54900
+26	Male	Business	51400
+18	Female	Law	54600
+21	Female	Mathematics	61600
+21	Male	Computer Science	54700
+26	Female	Computer Science	37700
+28	Male	Medicine	25000
+22	Male	Medicine	61400
+22	Female	Computer Science	41600
+23	Female	Mathematics	66800
+18	Female	Business	27900
+18	Male	Arts	36100
+26	Male	Business	48200
+20	Male	Mathematics	51600
+21	Female	Arts	64200
+18	Female	Computer Science	65700
+26	Female	Law	49200
+25	Male	Arts	61300
+19	Male	Medicine	25000
+25	Male	Law	45000
+24	Male	Mathematics	62100
+28	Male	Computer Science	51100
+23	Female	Mathematics	71800
+18	Female	Engineering	35900
+24	Female	Arts	63400
+27	Male	Arts	42700
+24	Male	Mathematics	57400
+26	Female	Law	37000
+18	Male	Engineering	52200
+19	Female	Engineering	63100
+28	Female	Computer Science	61600
+26	Male	Law	51800
+26	Female	Business	62300
+23	Male	Engineering	59700
+23	Female	Mathematics	45500
+21	Female	Arts	52800
+21	Male	Engineering	63200
+22	Male	Mathematics	77900
+20	Female	Computer Science	58300
+18	Female	Computer Science	32700
+18	Male	Arts	56000
+29	Female	Arts	77700
+24	Male	Arts	40300
+18	Male	Business	30400
+18	Male	Arts	57600
+20	Male	Law	50900
+27	Male	Computer Science	51300
+21	Other	Computer Science	47000
+21	Male	Engineering	41700
+19	Male	Arts	39300
+18	Male	Business	54400
+20	Female	Law	60700
+28	Female	Medicine	44700
+21	Male	Engineering	69700
+20	Male	Law	50600
+25	Male	Mathematics	61500
+27	Male	Business	43600
+18	Male	Arts	52200
+19	Male	Business	55300
+24	Male	Medicine	48400
+21	Female	Law	32500
+25	Male	Business	69100
+28	Female	Mathematics	47900
+20	Female	Medicine	25000
+23	Female	Medicine	42900
+26	Male	Law	73900
+18	Male	Medicine	68100
+18	Male	Law	54100
+25	Female	Business	62700
+20	Male	Mathematics	71200
+22	Female	Arts	51700
+18	Female	Computer Science	65900
+22	Male	Computer Science	38100
+28	Female	Business	34000
+23	Male	Arts	50300
+25	Male	Computer Science	61100
+20	Male	Mathematics	68900
+20	Male	Medicine	48500
+29	Female	Business	37600
+28	Male	Business	82400
+28	Male	Engineering	47100
+27	Female	Engineering	34900
+26	Female	Engineering	58700
+21	Male	Law	100600
+21	Female	Arts	51400
+29	Female	Business	51200
+24	Male	Engineering	61300
+19	Male	Business	64100
+25	Male	Medicine	32400
+23	Female	Engineering	72400
+20	Female	Business	48200
+26	Female	Arts	51000
+22	Female	Law	33000
+25	Male	Mathematics	45100
+24	Male	Arts	71400
+25	Male	Arts	67200
+24	Female	Mathematics	56900
+20	Female	Engineering	25000
+19	Male	Arts	39200
+24	Female	Law	56500
+20	Male	Computer Science	43600
+20	Male	Law	59800
+19	Male	Medicine	62000
+21	Male	Law	71100
+25	Male	Business	25000
+29	Male	Computer Science	44500
+18	Male	Engineering	38500
+18	Male	Business	41500
+29	Female	Mathematics	48800
+22	Male	Law	53700
+28	Other	Business	59800
+22	Male	Arts	38400
+28	Male	Business	45200
+29	Male	Business	51900
+18	Male	Law	51100
+23	Female	Medicine	41500
+18	Male	Mathematics	40800
+22	Female	Law	47100
+26	Female	Engineering	27800
+29	Female	Mathematics	30500
+22	Female	Computer Science	47200
+23	Female	Arts	51100
+25	Male	Medicine	67600
+28	Female	Computer Science	25900
+18	Male	Computer Science	56600
+19	Male	Mathematics	71100
+26	Male	Medicine	54300
+20	Female	Arts	39900
+23	Female	Engineering	44900
+22	Male	Medicine	77300
+28	Female	Medicine	66900
+19	Male	Medicine	40400
+24	Male	Arts	38600
+21	Male	Medicine	56100
+18	Male	Medicine	56800
+21	Male	Business	71200
+23	Female	Business	46900
+24	Female	Business	27500
+24	Male	Business	45900
+24	Female	Medicine	42800
+20	Female	Mathematics	25000
+23	Female	Business	45900
+25	Female	Computer Science	64400
+21	Male	Mathematics	61200
+25	Female	Engineering	45100
+19	Female	Business	43600
+27	Male	Arts	42200
+26	Male	Engineering	41900
+26	Female	Law	62100
+25	Male	Law	70300
+27	Other	Computer Science	61300
+27	Male	Engineering	39100
+18	Female	Engineering	37800
+19	Male	Computer Science	71900
+23	Female	Law	51200
+27	Female	Business	39000
+22	Male	Computer Science	51400
+29	Female	Arts	29900
+26	Male	Computer Science	32300
+22	Male	Medicine	40800
+19	Male	Law	63400
+27	Female	Medicine	45700
+21	Male	Law	60500
+26	Male	Law	52700
+18	Male	Engineering	29300
+28	Female	Business	73600
+18	Female	Business	31800
+29	Male	Law	41200
+24	Male	Law	42900
+28	Female	Medicine	62000
+20	Male	Arts	40700
+27	Female	Computer Science	36900
+19	Female	Law	62800
+26	Female	Law	45800
+20	Male	Computer Science	59500
+19	Female	Computer Science	86200
+29	Female	Arts	43400
+25	Female	Arts	56600
+27	Male	Computer Science	31700
+23	Male	Law	41200
+23	Male	Law	54500
+27	Female	Computer Science	71500
+28	Female	Law	26800
+24	Male	Arts	55700
+24	Male	Computer Science	32900
+28	Male	Arts	45600
+23	Female	Law	41500
+21	Female	Law	38600
+28	Male	Engineering	52600
+26	Male	Medicine	34900
+23	Male	Medicine	25000
+21	Female	Mathematics	43400
+29	Female	Arts	37800
+20	Female	Computer Science	43200
+21	Male	Medicine	37900
+20	Female	Law	57400
+19	Male	Business	58500
+22	Female	Computer Science	30400
+19	Male	Arts	67700
+23	Female	Law	59800
+20	Female	Law	42900
+23	Female	Business	47900
+28	Female	Arts	64100
+27	Male	Mathematics	43100
+26	Male	Computer Science	61000
+18	Female	Law	54300
+23	Male	Mathematics	62400
+26	Male	Engineering	58600
+28	Male	Law	40800
+21	Female	Engineering	52100
+28	Male	Engineering	62400
+29	Male	Computer Science	61000
+19	Male	Computer Science	59700
+21	Male	Business	46500
+18	Female	Law	71800
+20	Other	Computer Science	55000
+27	Female	Computer Science	74800
+26	Male	Business	32300
+27	Female	Business	45500
+22	Female	Law	47400
+28	Male	Mathematics	62400
+23	Female	Arts	38200
+20	Female	Medicine	38100
+22	Female	Law	64300
+28	Female	Medicine	47700
+25	Male	Arts	58500
+23	Male	Engineering	37500
+21	Female	Mathematics	60500
+19	Male	Law	62700
+26	Male	Computer Science	69100
+29	Female	Business	35000
+18	Female	Law	32100
+18	Male	Business	48600
+21	Female	Engineering	68200
+24	Female	Business	36600
+18	Female	Engineering	33800
+26	Male	Mathematics	42500
+21	Male	Arts	52800
+20	Male	Engineering	51700
+18	Male	Medicine	36700
+27	Male	Law	39000
+21	Male	Engineering	48600
+26	Male	Law	38800
+27	Female	Arts	34200
+23	Male	Mathematics	57900
+23	Female	Engineering	41300
+18	Female	Arts	42500
+27	Male	Medicine	44800
+19	Female	Mathematics	54400
+28	Female	Computer Science	50800
+23	Male	Arts	41600
+19	Female	Computer Science	47800
+20	Male	Arts	46800
+21	Female	Mathematics	71800
+28	Male	Engineering	49700
+22	Female	Computer Science	37700
+26	Male	Mathematics	26100
+29	Female	Arts	64200
+21	Male	Law	48700
+28	Female	Arts	54800
+26	Female	Computer Science	61700
+28	Male	Law	38700
+27	Female	Mathematics	38300
+20	Male	Arts	50900
+25	Female	Computer Science	84600
+29	Female	Medicine	39200
+18	Female	Business	42200
+28	Female	Medicine	62500
+26	Male	Computer Science	58900
+26	Male	Engineering	42500
+27	Male	Engineering	26200
+19	Female	Business	46100
+21	Male	Computer Science	77200
+25	Female	Law	43300
+24	Female	Arts	62200
+18	Male	Medicine	33400
+22	Female	Law	62600
+24	Male	Mathematics	63300
+21	Male	Medicine	50400
+18	Female	Business	68400
+26	Male	Business	48400
+22	Male	Mathematics	79700
+28	Female	Business	48200
+19	Male	Mathematics	45000
+25	Other	Law	55000
+28	Other	Law	32000
+19	Male	Business	53600
+20	Male	Law	37700
+27	Female	Business	64600
+18	Male	Law	63300
+28	Male	Business	38600
+19	Female	Arts	43300
+24	Male	Arts	64500
+27	Female	Mathematics	79200
+19	Male	Medicine	50200
+23	Male	Mathematics	62500
+20	Male	Medicine	61300
+21	Other	Mathematics	61400
+28	Female	Business	25000
+25	Female	Medicine	36400
+20	Male	Law	72100
+27	Male	Business	38200
+23	Male	Arts	46800
+18	Female	Engineering	79600
+24	Female	Arts	42600
+25	Female	Computer Science	52100
+28	Male	Arts	56300
+25	Female	Computer Science	67500
+20	Male	Medicine	59200
+27	Other	Arts	42300
+18	Male	Engineering	50200
+26	Female	Law	46600
+23	Male	Arts	63600
+28	Male	Law	49400
+26	Female	Arts	53300
+24	Male	Arts	42800
+18	Male	Law	80100
+29	Female	Law	37600
+29	Female	Business	81900
+18	Female	Arts	47300
+23	Male	Arts	63700
+22	Female	Engineering	51800
+26	Female	Law	32200
+19	Male	Law	42700
+25	Female	Computer Science	66800
+28	Male	Computer Science	34300
+22	Male	Law	25000
+19	Male	Engineering	25000
+27	Male	Medicine	50100
+28	Female	Arts	35300
+28	Female	Medicine	50900
+29	Female	Engineering	58900
+23	Female	Medicine	59500
+27	Male	Computer Science	55600
+25	Female	Business	80400
+21	Female	Medicine	73700
+19	Male	Business	35700
+29	Female	Medicine	59400
+28	Other	Engineering	58600
+22	Female	Business	33400
+29	Female	Medicine	41800
+19	Male	Engineering	25600
+19	Male	Mathematics	41700
+23	Male	Mathematics	59700
+28	Female	Law	66000
+27	Female	Mathematics	83200
+26	Other	Computer Science	61900
+21	Male	Arts	56100
+23	Male	Engineering	77500
+24	Female	Engineering	73300
+28	Female	Computer Science	41600
+23	Male	Business	48200
+25	Female	Medicine	60400
+21	Female	Business	29700
+29	Female	Engineering	55900
+18	Female	Law	56600
+24	Male	Mathematics	61000
+20	Other	Medicine	63100
+23	Female	Mathematics	44900
+19	Male	Mathematics	56600
+26	Male	Arts	43800
+18	Female	Mathematics	64400
+23	Male	Arts	53100
+23	Male	Medicine	64500
+22	Female	Engineering	25000
+22	Male	Law	30600
+18	Female	Computer Science	54800
+27	Male	Mathematics	31200
+29	Female	Law	65200
+22	Male	Mathematics	65300
+19	Male	Mathematics	56900
+24	Male	Business	45300
+20	Female	Law	44800
+21	Female	Law	63400
+20	Male	Business	59200
+20	Female	Computer Science	37100
+21	Female	Computer Science	56300
+22	Other	Arts	72300
+18	Male	Mathematics	58500
+21	Female	Computer Science	44400
+29	Male	Medicine	46700
+29	Male	Arts	44400
+28	Other	Engineering	43400
+25	Female	Arts	31800
+27	Male	Mathematics	51600
+24	Male	Law	26600
+26	Female	Law	61700
+22	Female	Arts	45100
+27	Male	Business	69800
+21	Female	Mathematics	35100
+25	Male	Computer Science	48000
+26	Male	Law	51700
+24	Female	Law	32700
+24	Male	Medicine	57300
+22	Male	Mathematics	32800
+21	Female	Computer Science	56400
+27	Female	Mathematics	72200
+18	Male	Law	58900
+27	Female	Business	43300
+27	Female	Law	67500
+24	Male	Computer Science	84800
+18	Female	Medicine	53700
+18	Male	Computer Science	40200
+22	Male	Mathematics	51200
+26	Female	Mathematics	31700
+23	Other	Business	67000
+20	Male	Medicine	54600
+20	Male	Computer Science	42100
+24	Female	Business	57800
+23	Male	Business	42600
+26	Male	Arts	47100
+23	Male	Law	50000
+22	Female	Mathematics	77100
+27	Male	Medicine	33100
+24	Male	Medicine	61600
+18	Female	Law	39400
+29	Female	Mathematics	76500
+24	Female	Mathematics	36200
+20	Male	Computer Science	36600
+26	Female	Arts	61500
+23	Male	Medicine	50000
+26	Male	Business	62300
+22	Female	Medicine	68300
+24	Male	Arts	52900
+21	Male	Law	65300
+24	Male	Engineering	25000
+18	Male	Law	55500
+24	Male	Business	47100
+25	Other	Medicine	72600
+22	Male	Law	25000
+19	Male	Business	39000
+22	Male	Mathematics	30300
+23	Female	Computer Science	53200
+29	Female	Business	53800
+19	Male	Medicine	50600
+23	Female	Computer Science	62000
+23	Male	Computer Science	66600
+18	Male	Computer Science	55500
+18	Male	Engineering	30000
+28	Male	Engineering	41700
+27	Male	Computer Science	60300
+20	Female	Law	53800
+27	Male	Law	40300
+27	Female	Law	65500
+29	Male	Medicine	58900
+20	Male	Computer Science	65300
+21	Male	Law	55700
+19	Female	Computer Science	39300
+26	Male	Business	71800
+27	Female	Law	60200
+29	Male	Business	58000
+28	Male	Business	63600
+24	Male	Law	46100
+24	Male	Arts	58600
+23	Male	Business	48400
+20	Male	Law	38900
+23	Female	Mathematics	29800
+29	Male	Business	25000
+25	Female	Medicine	55800
+25	Male	Engineering	38900
+28	Female	Engineering	42500
+26	Female	Engineering	38500
+18	Male	Mathematics	27200
+18	Male	Arts	66000
+20	Female	Computer Science	80400
+20	Female	Business	25000
+27	Male	Mathematics	55800
+25	Male	Medicine	32200
+27	Female	Arts	62100
+18	Male	Mathematics	71200
+19	Female	Engineering	61700
+19	Male	Arts	36200
+20	Male	Mathematics	39400
+23	Female	Medicine	43500
+18	Female	Law	60400
+19	Male	Arts	46700
+18	Male	Engineering	60400
+22	Female	Computer Science	50200
+24	Female	Mathematics	49000
+25	Male	Engineering	51800
+27	Female	Mathematics	49400
+18	Female	Engineering	26600
+24	Female	Engineering	35700
+22	Female	Mathematics	74700
+27	Male	Arts	57100
+18	Female	Medicine	77000
+20	Female	Engineering	36700
+24	Male	Law	49900
+27	Male	Arts	47000
+18	Male	Medicine	34300
+24	Female	Computer Science	25000
+22	Male	Engineering	35200
+18	Female	Business	65700
+18	Female	Arts	42800
+18	Female	Law	45300
+28	Female	Computer Science	49900
+26	Other	Computer Science	52400
+28	Male	Computer Science	45500
+20	Female	Arts	44200
+22	Male	Medicine	56000
+28	Female	Business	74400
+27	Male	Law	40800
+29	Other	Medicine	27000
+26	Female	Engineering	40600
+23	Female	Business	48500
+29	Male	Medicine	25000
+26	Male	Engineering	51500
+25	Female	Mathematics	58600
+25	Male	Business	34500
+18	Female	Arts	45600
+26	Male	Law	60200
+23	Female	Mathematics	49500
+26	Male	Law	52400
+20	Female	Engineering	48400
+29	Female	Medicine	51400
+20	Male	Business	73700
+23	Male	Engineering	58600
+26	Male	Engineering	25000
+24	Female	Arts	52500
+20	Female	Engineering	76500
+20	Female	Business	50700
+19	Female	Computer Science	25000
+26	Male	Business	34700
+20	Male	Business	48500
+28	Male	Arts	38100
+22	Male	Arts	74300
+26	Other	Law	34000
+25	Female	Mathematics	49300
+19	Male	Law	49900
+20	Female	Engineering	73200
+19	Female	Law	48700
+25	Male	Arts	67100
+23	Male	Engineering	46200
+23	Male	Computer Science	48200
+29	Female	Medicine	44400
+26	Other	Arts	25000
+25	Female	Mathematics	65100
+21	Male	Arts	60800
+29	Male	Computer Science	49700
+21	Female	Mathematics	43000
+26	Female	Arts	31500
+18	Female	Law	41800
+19	Female	Law	49500
+19	Male	Law	54700
+23	Female	Computer Science	57000

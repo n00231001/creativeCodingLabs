@@ -31,9 +31,9 @@ class barChart {
         pop();
  
         let femaleScores = cleanedData.map(row => row.Female)
-        let ageGroups = cleanedData.map(row => row.ageGroup)
+        let Field_of_Study = cleanedData.map(row => row.ageGroup)
  
-        console.log(femaleScores, ageGroups)
+        console.log(femaleScores, Field_of_Study)
         }
  
     renderBars() {
@@ -48,7 +48,7 @@ class barChart {
        
         pop()
     //let femaleScores = cleanedData.map(row => row.Female)
-    //let ageGroups = cleanedData.map(row => row.ageGroup)
+    //let Field_of_Study = cleanedData.map(row => row.ageGroup)
     }
 
     renderAxisBars(){
@@ -89,9 +89,9 @@ class barChart {
         }
         pop()
     let femaleScores = cleanedData.map(row => row.Female)
-    let ageGroups = cleanedData.map(row => row.ageGroup)
+    let Field_of_Study = cleanedData.map(row => row.ageGroup)
  
-    console.log(femaleScores, ageGroups)
+    console.log(femaleScores, Field_of_Study)
     }
    
     renderTicks(){

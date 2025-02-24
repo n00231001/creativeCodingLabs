@@ -9,7 +9,7 @@ class stackedChart {
         this.barWidth = obj.barWidth || 10;
         this.margin = obj.margin || 20;
         this.axisThickness = obj.axisThickness || 2;
-        this.chartPosX = obj.chartPosX || 800;
+        this.chartPosX = obj.chartPosX || 850;
         this.chartPosY = obj.chartPosY || 350;
 
         this.axisColour = color(255);
@@ -61,7 +61,7 @@ class stackedChart {
                  
         }
         }
-
+        
         renderLabels(){
             push()
             push();
@@ -69,7 +69,6 @@ class stackedChart {
             for(let i = 0; i<this.data.length; i++) {
                 let xPos = i*(this.barWidth + this.gap);
                 fill(this.barColour)
-                rect(xPos,0,this.barWidth, -this.data[i][this.yValue]*this.scaler)
             
                 push()
                     textSize(15);
@@ -85,6 +84,10 @@ class stackedChart {
                 pop()
             }
             pop()
+        let femaleScores = cleanedData.map(row => row.Female)
+        let ageGroups = cleanedData.map(row => row.ageGroup)
+     
+        console.log(femaleScores, ageGroups)
         }
        
         renderTicks(){
