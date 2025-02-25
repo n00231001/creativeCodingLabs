@@ -7,7 +7,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(2000, 1200);
+  createCanvas(2000, 1600);
   angleMode(DEGREES);
   noLoop();
   cleanData();
@@ -25,6 +25,21 @@ function setup() {
       // aixsThickness: 10,
       // margin: 15,
       // chartPosX: 50,
+      // chartPosY: 450,
+    })
+  );
+
+  charts.push(
+    new barChart({
+      data: cleanedData.slice(10),
+      xValue: "Field_of_Study",
+      yValue: "Age",
+      // chartHeight: 400,
+      // chartWidth: 500,
+      // barWidth: 2,
+      // aixsThickness: 10,
+      // margin: 15,
+      chartPosX: 550,
       // chartPosY: 450,
     })
   );
@@ -61,7 +76,7 @@ function setup() {
 
   charts.push(
     new pyramidChart({
-      data: cleanedData,
+      data: cleanedData.splice(10),
       xValue: "Field_of_Study",
       yValues: ["Starting_Salary", "Age"]
       // chartHeight:400,
@@ -130,6 +145,7 @@ function draw() {
     chart.renderBars();
     chart.renderTicks();
     chart.renderLabels();
+    chart.renderTitles();
   });
 }
 

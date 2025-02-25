@@ -4,20 +4,22 @@ class barChart {
         this.yValue = obj.yValue;
         this.xValue = obj.xValue;
         
-        this.chartHeight = obj.chartHeight || 300;
-        this.chartWidth = obj.chartWidth || 300;
-        this.barWidth = obj.barWidth || 10;
+        this.chartHeight = obj.chartHeight || 400;
+        this.chartWidth = obj.chartWidth || 400;
+        this.barWidth = obj.barWidth || 20;
         this.margin = obj.margin || 10;
         this.axisThickness = obj.axisThickness || 2;
         this.chartPosX = obj.chartPosX || 50;
-        this.chartPosY = obj.chartPosY || 350;
+        this.chartPosY = obj.chartPosY || 450;
 
         this.axisColour = color(255);
-        this.barColour = color(255);
+        this.barColour = color(253, 228, 48);
         this.axisTextColour = color(255);
  
         this.gap = (this.chartWidth - (this.data.length * this.barWidth) - (this.margin*2))/(this.data.length-1);
         this.scaler = this.chartHeight/(max(cleanedData.map(row => row[this.yValue])));
+
+        this.chartTitle = obj.chartTitle || "BarChart";
  
     }
     renderChartBars(){
@@ -104,6 +106,17 @@ class barChart {
         for(let i = 0; i<=5; i++){
             line (0, -tickIncrements*i, -10, -tickIncrements*i)
         }
+        pop();
+    }
+
+    renderTitles() {
+        push();
+        translate(this.chartPosX,this.chartPosY - this.chartHeight - 30);
+        fill(this.axisTextColour);
+        textSize(20);
+        textAlign(CENTER,CENTER);
+        //textFont(font);
+        text(this.chartTitle,250,0);
         pop();
     }
 }

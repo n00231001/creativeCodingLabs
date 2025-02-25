@@ -3,23 +3,25 @@ class HorizontalChart {
         this.data = obj.data;
         this.xValue = obj.xValue;
         this.yValue = obj.yValue;
-        this.chartHeight = obj.chartHeight || 300;
-        this.chartWidth = obj.chartWidth || 300;
-        this.barWidth = obj.barWidth || 10;
+        this.chartHeight = obj.chartHeight || 400;
+        this.chartWidth = obj.chartWidth || 400;
+        this.barWidth = obj.barWidth || 20;
         this.margin = obj.margin || 10;
  
         this.axisThickness = obj.axisThickness || 1;
         this.chartPosX = obj.chartPosX || 50;
-        this.chartPosY = obj.chartPosY || 800;
+        this.chartPosY = obj.chartPosY || 1000;
  
         this.gap = (this.chartHeight - (this.data.length * this.barWidth) - (this.margin * 2)) / (this.data.length - 1);
         this.scaler = this.chartWidth / (max(cleanedData.map(row => row[this.yValue])));
  
         this.axisColour = color(255);
         this.axisTickColour = color(255);
-        this.barColor = color(255);
+        this.barColor = color(253, 48, 48);
         this.axisTextColour = color(255);
- 
+        
+        this.chartTitle = obj.chartTitle || "horizontal chart";
+
         this.numTicks = 5;
         this.tickLength = 10;
     }
@@ -62,7 +64,7 @@ class HorizontalChart {
         translate(0, this.margin); // Add margin to the left side
     
         // Calculate the vertical spacing to position labels evenly along the y-axis
-        let tickSpacing = this.chartHeight / this.data.length;
+        let tickSpacing = -this.chartHeight / this.data.length;
     
         // Loop through the data and place the labels along the y-axis
         for (let i = 0; i < this.data.length; i++) {
@@ -74,6 +76,7 @@ class HorizontalChart {
             noStroke();
             textAlign(RIGHT, CENTER);  // Align text to the right of the axis
             textSize(12);
+            rotate()
             text(this.data[i][this.xValue], -5, yPos); // Place the labels just to the left of the bars
         }
     
@@ -99,6 +102,17 @@ class HorizontalChart {
             line(x, 0, x, this.tickLength);
         }
  
+        pop();
+    }
+    
+    renderTitles() {
+        push();
+        translate(this.chartPosX,this.chartPosY - this.chartHeight - 30);
+        fill(this.axisTextColour);
+        textSize(20);
+        textAlign(CENTER,CENTER);
+        //textFont(font);
+        text(this.chartTitle,250,0);
         pop();
     }
 }
