@@ -30,10 +30,10 @@ class barChart {
         line (0, 0, this.chartWidth, 0);       //horizontal
         pop();
  
-        let femaleScores = cleanedData.map(row => row.Female)
-        let Field_of_Study = cleanedData.map(row => row.ageGroup)
+        let starting_Salary = cleanedData.map(row => row.Starting_Salary)
+        let Field_of_Study = cleanedData.map(row => Field_of_Study)
  
-        console.log(femaleScores, Field_of_Study)
+        console.log(starting_Salary, Field_of_Study)
         }
  
     renderBars() {
@@ -47,8 +47,7 @@ class barChart {
             }
        
         pop()
-    //let femaleScores = cleanedData.map(row => row.Female)
-    //let Field_of_Study = cleanedData.map(row => row.ageGroup)
+            
     }
 
     renderAxisBars(){
@@ -86,12 +85,13 @@ class barChart {
                     text(this.data[i][this.xValue],0, 0);
                 pop()
             pop()
+            
         }
         pop()
-    let femaleScores = cleanedData.map(row => row.Female)
-    let Field_of_Study = cleanedData.map(row => row.ageGroup)
+    let Starting_Salary = cleanedData.map(row => row.Starting_Salary)
+    let Field_of_Study = cleanedData.map(row => row.Field_of_Study)
  
-    console.log(femaleScores, Field_of_Study)
+    console.log(Field_of_Study, Starting_Salary)
     }
    
     renderTicks(){

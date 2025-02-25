@@ -16,8 +16,8 @@ class lineChart {
         this.barColour = color(255);
         this.axisTextColour = color(255);
 
-        this.yValues = ["Female", "Male"];
-        this.xValue = "Age_Group";
+        this.yValues = "starting_salary";
+        this.xValue = "age";
         this.yTotal = "Total";
 
         // Fix scaling to handle total values for Female and Male
@@ -82,10 +82,11 @@ class lineChart {
             pop()
         }
         pop()
-    let femaleScores = cleanedData.map(row => row.Female)
-    let ageGroups = cleanedData.map(row => row.ageGroup)
+        
+    let age = cleanedData.map(row => row.age)
+    let starting_Salary = cleanedData.map(row => row.starting_Salary)
  
-    console.log(femaleScores, ageGroups)
+    console.log(age, starting_Salary)
     }
    
     renderTicks(){

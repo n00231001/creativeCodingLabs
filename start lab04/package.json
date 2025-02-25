@@ -1,0 +1,13 @@
+{
+  "name": "start-lab04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "barChart.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

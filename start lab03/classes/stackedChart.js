@@ -9,16 +9,16 @@ class stackedChart {
         this.barWidth = obj.barWidth || 10;
         this.margin = obj.margin || 20;
         this.axisThickness = obj.axisThickness || 2;
-        this.chartPosX = obj.chartPosX || 850;
+        this.chartPosX = obj.chartPosX ||450;
         this.chartPosY = obj.chartPosY || 350;
 
         this.axisColour = color(255);
         this.barColour = color(255);
         this.axisTextColour = color(255);
 
-        this.yValues = ["Female", "Male"];
-        this.xValue = "Age_Group";
-        this.yTotal = "Total"
+        this.yValues = obj.yValues;
+        this.xValue = "Age";
+        this.yTotal = "Total";
  
         this.gap = (this.chartWidth - (this.data.length * this.barWidth) - (this.margin*2))/(this.data.length-1);
         this.scaler = this.chartHeight / (max(this.data.map(row => row[this.yValues[0]] + row[this.yValues[1]])));
@@ -35,10 +35,10 @@ class stackedChart {
         line (0, 0, this.chartWidth, 0);       //horizontal
         pop();
  
-        let femaleScores = cleanedData.map(row => row.Female)
-        let ageGroups = cleanedData.map(row => row.ageGroup)
+        let starting_Salary = cleanedData.map(row => row.starting_Salary)
+        let age = cleanedData.map(row => row.age)
  
-        console.log(femaleScores, ageGroups)
+        //console.log(femaleScores, ageGroups)
         }
         //renders data bars
         renderBars() {
@@ -52,10 +52,12 @@ class stackedChart {
                 translate(xPos, 0);
 
                 for(let j=0; j<this.yValues.length; j++){
-                    fill(random(100,255));
+                    fill(random(0,255));
                     noStroke();
                     rect(0, 0, this.barWidth, -this.data[i][this.yValues[j]] * this.scaler);
-                    translate(0,-cleanedData[i][this.yValues[j]]*this.scaler)
+                    //translate(0,-cleanedData[i]this.yTotal)
+                    translate(0,-this.data[i][this.yValues[j]]*this.scaler -1)
+                    console.log(i,j,-this.data[i][this.yValues[j]]*this.scaler -1)
                  }
                  pop()
                  
@@ -87,7 +89,7 @@ class stackedChart {
         let femaleScores = cleanedData.map(row => row.Female)
         let ageGroups = cleanedData.map(row => row.ageGroup)
      
-        console.log(femaleScores, ageGroups)
+        //console.log(femaleScores, ageGroups)
         }
        
         renderTicks(){

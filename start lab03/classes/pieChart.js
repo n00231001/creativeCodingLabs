@@ -35,10 +35,10 @@ class pieChart {
         line (0, 0, this.chartWidth, 0);       //horizontal
         pop();
  
-        let femaleScores = cleanedData.map(row => row.Female)
-        let ageGroups = cleanedData.map(row => row.ageGroup)
+        //let femaleScores = cleanedData.map(row => row.Female)
+        //let ageGroups = cleanedData.map(row => row.ageGroup)
  
-        console.log(femaleScores, ageGroups)
+        //console.log(femaleScores, ageGroups)
         }
     renderBars(){
         push();
