@@ -1,3 +1,5 @@
+//object constructor is used to initalise objects
+//an object is used to contain configuration data
 class barChart {
     constructor(obj){
         this.data = obj.data;
@@ -20,10 +22,16 @@ class barChart {
         this.scaler = this.chartHeight/(max(cleanedData.map(row => row[this.yValue])));
 
         this.chartTitle = obj.chartTitle || "BarChart";
+
+        this.yAxisLabel = obj.yAxisLabel || "AAAA";
+        this.xAxisLabel = obj.xAxisLabel || "AAAA";
  
     }
+    //renders bars
     renderChartBars(){
         push();
+        //translate is used to move the starting position when drawing objects 
+        //chartPosX and Y are taken from the constructor and used to place the bars
         translate(this.chartPosX,this.chartPosY);
         noFill();
         stroke(this.axisColour);
@@ -32,18 +40,17 @@ class barChart {
         line (0, 0, this.chartWidth, 0);       //horizontal
         pop();
  
-        let starting_Salary = cleanedData.map(row => row.Starting_Salary)
-        let Field_of_Study = cleanedData.map(row => Field_of_Study)
- 
         console.log(starting_Salary, Field_of_Study)
         }
  
     renderBars() {
         push()
           translate(this.chartPosX, this.chartPosY)
+          //i is initally set as 0 and keeps looping increasing from 0 each time till it reaches the full length of the data
           for(let i = 0; i<this.data.length; i++) {
             let xPos = i*(this.barWidth + this.gap)
             strokeWeight(this.axisThickness);
+            //draws each bar on the yValue which is increasing through i
             rect (xPos,0,this.barWidth, -this.data[i][this.yValue]*this.scaler);
             line (0,0, this.chartWidth, 0);
             }
@@ -63,6 +70,13 @@ class barChart {
         line (0, 0, 0, -this.chartHeight);      //vertical
         line (0, 0, this.chartWidth, 0);       //horizontal
        
+        noStroke()
+        text(this.xAxisLabel, this,this.chartWidth/2, 100);
+
+        push();
+        text(this.yAxisLabel, -this.chartHeight / 3, -170);
+        pop();
+
        pop();
     }
  
@@ -105,6 +119,7 @@ class barChart {
         let tickIncrements = this.chartHeight/5;
         for(let i = 0; i<=5; i++){
             line (0, -tickIncrements*i, -10, -tickIncrements*i)
+            text(0, -tickIncrements*i, -10, tickIncrements*i)
         }
         pop();
     }

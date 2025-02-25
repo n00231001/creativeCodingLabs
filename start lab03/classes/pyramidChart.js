@@ -38,7 +38,8 @@ class pyramidChart {
     stroke(this.axisColour);
     strokeWeight(this.axisThickness);
     line(0, 0, 0, -this.chartWidth); //vertical
-    line(0, 0, this.chartWidth, 0); //horizontal
+    line(0, 0, this.chartWidth, 0);
+    line(0, 0, -this.chartWidth, 0); //horizontal
     pop();
 
     let LawSudents = cleanedData.map((row) => row.Female);
