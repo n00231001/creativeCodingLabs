@@ -8,8 +8,8 @@ class HorizontalChart {
         this.barWidth = obj.barWidth || 20;
         this.margin = obj.margin || 10;
  
-        this.axisThickness = obj.axisThickness || 1;
-        this.chartPosX = obj.chartPosX || 50;
+        this.axisThickness = obj.axisThickness || 2;
+        this.chartPosX = obj.chartPosX || 100;
         this.chartPosY = obj.chartPosY || 1000;
  
         this.gap = (this.chartHeight - (this.data.length * this.barWidth) - (this.margin * 2)) / (this.data.length - 1);
@@ -71,13 +71,15 @@ class HorizontalChart {
             // Calculate the y position of the label along the y-axis
             let yPos = i * tickSpacing;
     
-            // Position the label to the left of the bars along the y-axis
+            // adds labels along vertically
             fill(this.axisTextColour);
             noStroke();
-            textAlign(RIGHT, CENTER);  // Align text to the right of the axis
-            textSize(12);
+            // Align text to the right of the axis
+            textAlign(RIGHT, CENTER);  
+            textSize(15);
             rotate()
-            text(this.data[i][this.xValue], -5, yPos); // Place the labels just to the left of the bars
+            //adds labels vertically
+            text(this.data[i][this.xValue], -5, yPos); 
         }
     
         pop();

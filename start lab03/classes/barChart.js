@@ -1,11 +1,11 @@
-//object constructor is used to initalise objects
-//an object is used to contain configuration data
+//constructor is used to create the properties for the chart using the obj parameter
+//an object is a collection of properties and a property is an association between a name (or key) and a value
 class barChart {
     constructor(obj){
         this.data = obj.data;
         this.yValue = obj.yValue;
         this.xValue = obj.xValue;
-        
+        //if the value is not given in the constructor then the default value is used
         this.chartHeight = obj.chartHeight || 400;
         this.chartWidth = obj.chartWidth || 400;
         this.barWidth = obj.barWidth || 20;
@@ -17,14 +17,15 @@ class barChart {
         this.axisColour = color(255);
         this.barColour = color(253, 228, 48);
         this.axisTextColour = color(255);
- 
+        //gap is calculated by taking the chartWidth and subtracting the barWidth and margin and then dividing by the number of bars
         this.gap = (this.chartWidth - (this.data.length * this.barWidth) - (this.margin*2))/(this.data.length-1);
+        //scaler is used to scale the data to fit the chart
         this.scaler = this.chartHeight/(max(cleanedData.map(row => row[this.yValue])));
 
-        this.chartTitle = obj.chartTitle || "BarChart";
+        this.chartTitle = obj.chartTitle || "standard BarChart";
 
-        this.yAxisLabel = obj.yAxisLabel || "AAAA";
-        this.xAxisLabel = obj.xAxisLabel || "AAAA";
+        //this.yAxisLabel = obj.yAxisLabel || "AAAA";
+        //this.xAxisLabel = obj.xAxisLabel || "AAAA";
  
     }
     //renders bars
@@ -87,6 +88,7 @@ class barChart {
         for(let i = 0; i<this.data.length; i++) {
             let xPos = i*(this.barWidth + this.gap);
             fill(this.barColour)
+            //draws the text on the xValue which is increasing through i
             rect(xPos,0,this.barWidth, -this.data[i][this.yValue]*this.scaler)
         
             push()

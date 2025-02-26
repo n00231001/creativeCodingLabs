@@ -29,10 +29,14 @@ class pyramidChart {
       (this.chartWidth - this.data.length * this.barWidth - this.margin * 2) /
       (this.data.length - 1);
     this.scaler = this.chartHeight / max(this.data.map((row) => row[this.yValues[0]] + row[this.yValues[1]]));
+
+    // Sort the data array based on the xValue to ensure numerical order on the x-axis
+    this.data.sort((a, b) => a[this.xValue] - b[this.xValue]);
   }
+
   renderAxisBars() {
     push();
-    translate(this.chartPosX, this.chartPosY);    
+    translate(this.chartPosX, this.chartPosY);
 
     noFill();
     stroke(this.axisColour);
@@ -41,39 +45,27 @@ class pyramidChart {
     line(0, 0, this.chartWidth, 0);
     line(0, 0, -this.chartWidth, 0); //horizontal
     pop();
-
-    let LawSudents = cleanedData.map((row) => row.Female);
-    let ageGroups = cleanedData.map((row) => row.ageGroup);
-
-    //console.log(LawSudents, ageGroups)
   }
 
   renderBars() {
     push();
-    translate(this.chartPosX, this.chartPosY);    
-    
+    translate(this.chartPosX, this.chartPosY);
+
     for (let i = 0; i < this.data.length; i++) {
       let yPos = i * (this.barWidth + this.gap);
       let LawSudents = this.data[i][this.yValues[0]];
+      fill(255, 54, 54);
+      rect(0, -yPos, LawSudents * this.scaler, this.barWidth);
 
-      rect(0, -yPos, LawSudents * this.scaler, this.barWidth)
-      
       let ArtSudents = this.data[i][this.yValues[1]];
       fill(161, 48, 253);
       rect(0, -yPos, -ArtSudents * this.scaler, this.barWidth);
-
-      
-      fill(254, 48, 48);
-      //rect(-ArtSudents * this.scaler,yPos,ArtSudents * this.scaler,this.barWidth);
-      //   strokeWeight(this.axisThickness);
-      //   rect (yPos,0,this.barWidth, -this.data[i][this.yValue]*this.scaler);
-      //   line (0,0, this.chartWidth, 0);
     }
 
     pop();
   }
+
   renderLabels() {
-    push();
     push();
     translate(this.chartPosX, this.chartPosY);
     for (let i = 0; i < this.data.length; i++) {
@@ -91,16 +83,12 @@ class pyramidChart {
       translate(xPos + this.barWidth / 2, 10);
       rotate(70);
       text(this.data[i][this.xValue], 0, 0);
-      text(this.data[i][this.xValue], 0, 0);
       pop();
       pop();
     }
     pop();
-    let Starting_Salary = cleanedData.map((row) => row.Starting_Salary);
-    let Age = cleanedData.map((row) => row.Age);
-
-    //console.log(LawSudents, ageGroups)
   }
+
   renderTicks() {
     push();
     translate(this.chartPosX, this.chartPosY);
@@ -113,15 +101,14 @@ class pyramidChart {
     }
     pop();
   }
-  
+
   renderTitles() {
     push();
-    translate(this.chartPosX,this.chartPosY - this.chartHeight - 30);
+    translate(this.chartPosX, this.chartPosY - this.chartHeight - 30);
     fill(this.axisTextColour);
     textSize(20);
-    textAlign(CENTER,CENTER);
-    //textFont(font);
-    text(this.chartTitle,250,0);
+    textAlign(CENTER, CENTER);
+    text(this.chartTitle, 250, 0);
     pop();
-}
+  }
 }

@@ -34,6 +34,7 @@ function setup() {
       data: cleanedData.slice(10),
       xValue: "Field_of_Study",
       yValue: "Age",
+      chartTile: "barChart 2",
       // chartHeight: 400,
       // chartWidth: 500,
       // barWidth: 2,
@@ -95,7 +96,7 @@ function setup() {
     new stackedChart({
       data: cleanedData,
       xValue: "Field_of_Study",
-      yValues: ["Starting_Salary","highest_salary"]
+      yValues: ["Starting_Salary","highest_salary"],
       // chartHeight:400,
       // chartWidth:500,
       // barWidth:25,
