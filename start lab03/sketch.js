@@ -78,7 +78,7 @@ function setup() {
     new pyramidChart({
       data: cleanedData.splice(10),
       xValue: "Field_of_Study",
-      yValues: ["Starting_Salary", "Age"]
+      yValues: ["Starting_Salary", "highest_salary"]
       // chartHeight:400,
       // chartWidth:500,
       // barWidth:25,

@@ -58,7 +58,7 @@ class pyramidChart {
 
       rect(0, -yPos, LawSudents * this.scaler, this.barWidth)
       
-      let ArtSudents = this.data[i][this.yValues[0]];
+      let ArtSudents = this.data[i][this.yValues[1]];
       fill(161, 48, 253);
       rect(0, -yPos, -ArtSudents * this.scaler, this.barWidth);
 
