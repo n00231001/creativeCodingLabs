@@ -122,21 +122,6 @@ function setup() {
   // }
   // ));
 
-  // charts.push(new barChart({
-  //     data:cleanedData,
-  //     xValue:"Field_of_Study",
-  //     yValue: "Male",
-  //     chartHeight:400,
-  //     chartWidth:500,
-  //     barWidth:10,
-  //     aixsThickness:10,
-  //     margin:15,
-  //     chartPosX: 500,
-  //     chartPosY:950
-  // }
-  // ));
-  //charts.push(new barChart(cleanedData,"Field_of_Study","Male", 400,400,10,15,2,500,450));
-  //charts.push(new barChart(cleanedData,"Field_of_Study","Total", 400,800,30,25,2,50,900));
 }
 
 function draw() {
@@ -153,10 +138,10 @@ function draw() {
 function cleanData() {
   console.log(data);
 
-  // keys are found in data.columns[0]
-  // but they aren't a proper array, we need to split them by the spaces
   const headings = data.columns;
-
+  //the following code is used to find the highest salary for each field of study
+  //this is done by filtering the data by the field of study and then finding the max value
+  //the mathematics array is used to store all the students that are studying mathematics
   cleanedData = data.rows.map((row) => {
     // values are stored in row.arr
     const keys = row.arr;
@@ -213,7 +198,9 @@ function cleanData() {
   const business = cleanedData.filter(
     (row) => row.Field_of_Study == "Business"
   );
-
+  
+//calculates the highest salary for each field of study
+//filters the previous data by the field of study and then finds the max value
   cleanedData.forEach((row) => {
     if (row.Field_of_Study == "Mathematics") {
       row.highest_salary = max(
